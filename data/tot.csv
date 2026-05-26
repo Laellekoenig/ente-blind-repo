@@ -1,0 +1,4251 @@
+problem_name,agent_id,user_id,seconds
+All permutations,zimmerman,798,3511
+All permutations,zimmerman,808,2749
+Set Product,zimmerman,798,3241
+Set Product,zimmerman,808,4674
+Set Product,zimmerman,806,5670
+Set Product,baseline,591,2233
+Set Product,chi,571,3600
+Set Product,baseline,211,5873
+Set Product,baseline,64,1638
+Set Product,zimmerman,162,3199
+All permutations,zimmerman,162,2553
+Set Product,baseline,203,263
+Set Product,baseline,664,3805
+Set Product,baseline,606,3322
+All permutations,zimmerman,150,3131
+Set Product,zimmerman,549,1979
+Set Product,baseline,271,2868
+All permutations,chi,571,3556
+All permutations,baseline,203,540
+Set Product,chi,565,2116
+Set Product,zimmerman,412,2610
+Set Product,zimmerman,210,1239
+All permutations,baseline,88,1675
+Set Product,baseline,288,725
+All permutations,chi,565,1015
+Set Product,zimmerman,150,2704
+All permutations,baseline,591,1266
+Set Product,chi,45,2589
+Set Product,baseline,330,1085
+Set Product,chi,775,2375
+All permutations,baseline,211,1950
+Set Product,chi,278,6958
+Set Product,zimmerman,746,4526
+Set Product,zimmerman,237,2607
+All permutations,zimmerman,549,1467
+Set Product,chi,182,446
+Set Product,chi,334,506
+Set Product,chi,723,775
+Set Product,zimmerman,758,2065
+Set Product,baseline,256,2983
+Set Product,baseline,618,1663
+Set Product,zimmerman,180,362
+Set Product,chi,753,3032
+Set Product,zimmerman,226,2402
+Set Product,zimmerman,219,5001
+Set Product,chi,238,30
+Set Product,chi,662,4134
+All permutations,chi,278,992
+Set Product,chi,72,880
+All permutations,zimmerman,806,300
+Set Product,baseline,205,1130
+All permutations,zimmerman,219,2643
+All permutations,zimmerman,758,4267
+All permutations,baseline,205,2950
+All permutations,zimmerman,25,1377
+Set Product,chi,127,649
+Set Product,zimmerman,477,2655
+Set Product,zimmerman,689,2523
+All permutations,zimmerman,722,3696
+Set Product,chi,611,270
+Set Product,baseline,633,5826
+All permutations,zimmerman,689,1215
+Set Product,chi,129,1435
+All permutations,chi,72,413
+Set Product,zimmerman,25,1358
+Set Product,chi,429,8637
+Set Product,chi,444,2361
+All permutations,zimmerman,595,6274
+Set Product,zimmerman,771,60
+Set Product,chi,365,1474
+Set Product,baseline,338,2997
+Set Product,zimmerman,729,2550
+Set Product,baseline,302,2100
+Set Product,baseline,430,3872
+All permutations,chi,444,1552
+Set Product,baseline,385,2060
+Set Product,zimmerman,722,1887
+Set Product,chi,553,2059
+Set Product,chi,292,21
+Set Product,chi,636,6578
+All permutations,baseline,198,918
+Set Product,chi,759,6943
+Set Product,baseline,360,3253
+All permutations,chi,365,1267
+Set Product,chi,811,3625
+Set Product,baseline,198,3239
+Set Product,baseline,763,3093
+All permutations,zimmerman,226,3163
+Set Product,chi,439,967
+All permutations,chi,45,1696
+Set Product,zimmerman,684,6721
+Set Product,chi,240,6716
+Set Product,baseline,658,7667
+Set Product,chi,61,2101
+Set Product,zimmerman,31,3587
+Set Product,zimmerman,317,2014
+Set Product,zimmerman,686,8131
+Set Product,chi,391,17212
+Set Product,baseline,624,162
+Set Product,chi,275,5696
+Set Product,zimmerman,507,2494
+Set Product,chi,137,4886
+Set Product,zimmerman,749,4931
+Set Product,baseline,328,3482
+Set Product,chi,120,3611
+Set Product,baseline,89,4193
+Set Product,chi,479,3146
+Set Product,zimmerman,355,5194
+All permutations,zimmerman,729,2416
+All permutations,baseline,64,2356
+Set Product,zimmerman,372,1478
+All permutations,chi,639,3991
+All permutations,chi,345,1971
+All permutations,zimmerman,237,807
+Set Product,baseline,558,3420
+Set Product,baseline,143,4554
+Set Product,zimmerman,555,2747
+All permutations,chi,61,3494
+Set Product,chi,552,312
+Set Product,zimmerman,171,6947
+All permutations,baseline,302,1699
+All permutations,zimmerman,582,164
+All permutations,zimmerman,412,2046
+Set Product,zimmerman,582,2173
+Set Product,zimmerman,196,3273
+All permutations,zimmerman,126,1738
+Set Product,baseline,537,4180
+All permutations,chi,636,5968
+All permutations,baseline,89,2156
+Set Product,chi,756,2498
+Set Product,chi,762,3105
+Set Product,chi,345,3498
+Set Product,zimmerman,454,3379
+All permutations,zimmerman,684,2005
+All permutations,baseline,2,174
+Set Product,baseline,422,1266
+All permutations,chi,811,2307
+All permutations,baseline,348,1274
+All permutations,chi,391,2834
+All permutations,zimmerman,507,1981
+Set Product,chi,248,2703
+Set Product,chi,492,2417
+All permutations,zimmerman,196,2562
+Set Product,chi,733,314
+All permutations,chi,492,1361
+Set Product,chi,745,150
+All permutations,baseline,430,2010
+Set Product,zimmerman,41,670
+Set Product,zimmerman,126,2880
+Set Product,zimmerman,648,4490
+All permutations,chi,762,253
+Set Product,zimmerman,191,180
+Set Product,chi,513,3281
+Set Product,baseline,77,6472
+Set Product,zimmerman,276,5667
+Set Product,baseline,88,2232
+Set Product,chi,366,2115
+Set Product,chi,270,2742
+Set Product,baseline,348,2519
+Set Product,chi,435,3045
+Set Product,chi,364,3157
+All permutations,zimmerman,218,3820
+Set Product,zimmerman,670,1564
+All permutations,zimmerman,277,1128
+Set Product,zimmerman,218,2900
+All permutations,chi,759,3498
+Set Product,baseline,313,373
+Set Product,chi,405,4577
+Set Product,chi,264,4612
+All permutations,baseline,398,5094
+Set Product,chi,57,4903
+All permutations,zimmerman,41,1253
+Set Product,zimmerman,277,1900
+Set Product,chi,304,5112
+All permutations,baseline,328,1944
+Set Product,zimmerman,188,5129
+Set Product,zimmerman,134,4568
+Set Product,baseline,142,5849
+Set Product,baseline,702,764
+Set Product,chi,128,3764
+Set Product,chi,583,1397
+Set Product,zimmerman,167,1474
+All permutations,chi,264,4696
+Set Product,chi,35,1783
+Set Product,zimmerman,483,4581
+Set Product,zimmerman,752,154
+Set Product,chi,786,2091
+All permutations,baseline,271,4020
+All permutations,baseline,422,1193
+All permutations,chi,364,2419
+All permutations,zimmerman,642,449
+Set Product,chi,629,7657
+Set Product,baseline,175,1016
+Set Product,chi,544,432
+Set Product,chi,501,300
+All permutations,chi,786,1168
+Set Product,chi,350,1483
+Set Product,zimmerman,642,160
+Set Product,baseline,105,1688
+All permutations,chi,756,60
+All permutations,zimmerman,555,301
+Set Product,chi,505,4620
+All permutations,chi,511,3944
+Set Product,baseline,617,1866
+All permutations,zimmerman,670,655
+Set Product,baseline,408,1225
+Set Product,zimmerman,197,848
+Set Product,chi,500,2041
+Set Product,zimmerman,416,5364
+Set Product,baseline,306,5509
+Set Product,chi,144,3206
+Set Product,baseline,58,900
+Set Product,chi,630,2155
+All permutations,baseline,58,2901
+All permutations,chi,120,3030
+All permutations,baseline,77,3312
+Set Product,chi,138,1361
+Set Product,chi,584,2934
+Set Product,baseline,485,1139
+Set Product,zimmerman,615,2703
+Set Product,chi,279,6027
+Set Product,chi,681,1402
+Set Product,chi,213,986
+All permutations,baseline,537,2151
+Set Product,baseline,92,5458
+All permutations,baseline,763,2153
+Set Product,chi,554,1745
+Set Product,baseline,415,1193
+Set Product,baseline,383,10868
+All permutations,baseline,809,3014
+Set Product,zimmerman,307,2940
+All permutations,chi,367,1953
+Set Product,chi,793,1356
+All permutations,zimmerman,771,233
+Set Product,zimmerman,18,2351
+Set Product,baseline,809,1881
+All permutations,chi,350,29
+All permutations,zimmerman,18,1667
+All permutations,chi,544,370
+Set Product,chi,458,6926
+Set Product,baseline,645,232
+Set Product,chi,367,1427
+Set Product,zimmerman,239,1896
+All permutations,baseline,702,1398
+All permutations,baseline,633,2886
+All permutations,baseline,682,2242
+All permutations,chi,292,1863
+All permutations,chi,299,177
+Set Product,chi,511,2777
+Set Product,chi,646,3255
+Set Product,baseline,59,1590
+All permutations,chi,584,2479
+Set Product,baseline,374,897
+Set Product,zimmerman,266,1028
+Set Product,zimmerman,463,1622
+All permutations,zimmerman,167,583
+Set Product,baseline,705,911
+All permutations,baseline,618,1377
+All permutations,chi,270,1999
+Set Product,baseline,173,5406
+All permutations,baseline,306,3111
+Set Product,baseline,285,957
+All permutations,chi,554,1463
+All permutations,zimmerman,266,1282
+All permutations,baseline,59,3920
+Set Product,zimmerman,13,6421
+Set Product,chi,14,1737
+Set Product,baseline,346,902
+All permutations,baseline,705,86
+All permutations,baseline,664,6296
+Set Product,chi,469,8647
+All permutations,chi,182,2690
+All permutations,zimmerman,239,2395
+Set Product,chi,486,3339
+Set Product,zimmerman,347,718
+Set Product,chi,755,1671
+All permutations,chi,405,2399
+All permutations,zimmerman,746,8744
+All permutations,chi,275,2974
+Set Product,baseline,340,5115
+All permutations,chi,753,2338
+All permutations,zimmerman,663,356
+All permutations,chi,366,5851
+Set Product,baseline,250,1013
+Set Product,baseline,489,1144
+Set Product,zimmerman,343,7893
+Set Product,zimmerman,768,1948
+Set Product,zimmerman,634,3252
+Set Product,zimmerman,63,4560
+Set Product,chi,626,1661
+Set Product,zimmerman,300,1168
+Set Product,baseline,265,2661
+All permutations,baseline,715,3502
+All permutations,baseline,561,1635
+Set Product,zimmerman,375,3479
+Set Product,chi,305,8656
+Set Product,chi,108,2256
+Set Product,zimmerman,547,1623
+All permutations,baseline,92,3092
+All permutations,baseline,606,458
+All permutations,baseline,265,1029
+All permutations,chi,108,1332
+All permutations,chi,530,3121
+All permutations,chi,14,1294
+Set Product,chi,379,2237
+Set Product,chi,66,4195
+All permutations,chi,128,1560
+Set Product,zimmerman,654,3042
+All permutations,zimmerman,648,1417
+Set Product,zimmerman,113,2172
+Set Product,chi,98,2982
+Set Product,chi,457,1208
+Set Product,chi,754,6695
+Set Product,chi,456,3040
+All permutations,zimmerman,375,3047
+All permutations,chi,456,1881
+Set Product,chi,389,2281
+All permutations,baseline,338,29
+All permutations,chi,66,1135
+Set Product,baseline,744,4873
+Set Product,chi,716,924
+All permutations,chi,458,3441
+All permutations,baseline,360,1603
+Set Product,chi,80,4100
+Set Product,baseline,17,3095
+All permutations,zimmerman,541,1024
+Set Product,baseline,561,4075
+Set Product,baseline,649,2910
+Set Product,zimmerman,495,3237
+All permutations,baseline,17,1533
+Set Product,baseline,605,3144
+All permutations,chi,240,6151
+Set Product,zimmerman,387,1660
+Set Product,zimmerman,50,1558
+Averager,chi,516,634
+All permutations,zimmerman,387,177
+Set Product,baseline,376,120
+All permutations,zimmerman,343,7837
+Set Product,zimmerman,535,470
+All permutations,baseline,116,2613
+Set Product,zimmerman,791,3425
+All permutations,baseline,485,82
+Set Product,baseline,116,3158
+Set Product,baseline,428,1148
+All permutations,chi,681,2286
+Set Product,zimmerman,214,3789
+Set Product,zimmerman,800,828
+Set Product,chi,557,3110
+All permutations,chi,644,5066
+Set Product,baseline,27,1808
+Set Product,zimmerman,757,5451
+Set Product,chi,90,3891
+Set Product,chi,284,2073
+All permutations,chi,486,4400
+All permutations,zimmerman,749,2728
+All permutations,zimmerman,654,3147
+Set Product,chi,656,3751
+All permutations,zimmerman,171,4753
+Set Product,baseline,414,2720
+Set Product,chi,254,6845
+Set Product,baseline,322,3975
+Set Product,baseline,682,2715
+Set Product,baseline,117,3107
+All permutations,baseline,744,5035
+Set Product,baseline,341,4727
+All permutations,baseline,414,2425
+Set Product,baseline,331,3388
+All permutations,zimmerman,317,2431
+Set Product,chi,15,240
+All permutations,chi,526,2513
+All permutations,chi,439,31
+All permutations,chi,553,896
+Set Product,chi,170,2823
+All permutations,baseline,488,593
+All permutations,chi,469,1151
+Set Product,baseline,433,1912
+All permutations,zimmerman,522,60
+Set Product,chi,526,209
+Set Product,chi,639,3854
+Set Product,baseline,694,3342
+Set Product,zimmerman,522,3123
+All permutations,baseline,374,474
+Set Product,zimmerman,690,1789
+Set Product,chi,201,698
+Set Product,baseline,86,10067
+Set Product,baseline,396,2491
+All permutations,zimmerman,757,5764
+Set Product,baseline,807,3314
+All permutations,baseline,86,2814
+Set Product,zimmerman,652,4486
+All permutations,zimmerman,188,1669
+All permutations,zimmerman,686,2433
+All permutations,zimmerman,107,1056
+Set Product,baseline,667,5225
+All permutations,baseline,21,4253
+All permutations,baseline,187,1555
+Set Product,baseline,450,2885
+Set Product,zimmerman,668,2975
+All permutations,baseline,143,3032
+Set Product,baseline,187,3444
+All permutations,chi,305,2252
+Set Product,chi,291,3404
+Set Product,baseline,411,3300
+All permutations,chi,57,7564
+Set Product,zimmerman,107,3753
+Set Product,zimmerman,509,3460
+Set Product,chi,189,5309
+Set Product,baseline,625,3580
+All permutations,zimmerman,547,495
+Set Product,zimmerman,599,3412
+All permutations,zimmerman,652,1953
+Set Product,zimmerman,297,5310
+All permutations,baseline,558,2525
+All permutations,zimmerman,634,1595
+Set Product,zimmerman,796,1978
+Set Product,baseline,53,3021
+All permutations,chi,284,2633
+Set Product,zimmerman,153,910
+Set Product,baseline,621,1951
+All permutations,chi,379,1416
+All permutations,zimmerman,463,368
+Set Product,baseline,580,3671
+All permutations,chi,448,120
+All permutations,baseline,621,2350
+Set Product,chi,186,5894
+All permutations,zimmerman,599,2391
+Set Product,chi,329,2693
+All permutations,zimmerman,352,1750
+Set Product,zimmerman,352,4345
+Set Product,baseline,52,5503
+Set Product,baseline,121,1723
+All permutations,chi,73,520
+All permutations,baseline,625,3032
+Set Product,chi,73,2017
+All permutations,baseline,580,3367
+Set Product,zimmerman,770,4188
+All permutations,chi,435,1767
+All permutations,zimmerman,770,3311
+Set Product,chi,516,2155
+Set Product,baseline,95,3335
+Set Product,chi,286,2127
+Set Product,baseline,769,2752
+All permutations,chi,291,90
+Set Product,baseline,455,3275
+All permutations,zimmerman,796,165
+Set Product,chi,797,1385
+Set Product,chi,242,1780
+All permutations,chi,242,1405
+All permutations,chi,144,2722
+All permutations,zimmerman,31,3561
+All permutations,chi,329,2746
+Set Product,baseline,335,2746
+Set Product,chi,100,8300
+All permutations,baseline,605,2713
+Set Product,zimmerman,194,5112
+All permutations,baseline,411,4838
+All permutations,zimmerman,185,3318
+All permutations,baseline,173,3340
+All permutations,baseline,52,1874
+All permutations,zimmerman,176,3609
+All permutations,baseline,53,3203
+All permutations,zimmerman,509,2868
+Set Product,chi,371,4935
+All permutations,chi,513,565
+Set Product,chi,465,1390
+All permutations,zimmerman,297,4272
+Set Product,zimmerman,185,2288
+All permutations,zimmerman,63,2883
+Set Product,zimmerman,269,1089
+All permutations,baseline,769,3648
+Set Product,zimmerman,176,2151
+All permutations,zimmerman,460,2694
+All permutations,zimmerman,276,4842
+Set Product,chi,4,2360
+Set Product,zimmerman,792,4734
+All permutations,zimmerman,38,511
+All permutations,chi,797,1500
+Set Product,zimmerman,696,5464
+Set Product,zimmerman,589,3026
+All permutations,baseline,667,3211
+Set Product,baseline,74,971
+Set Product,chi,464,2788
+Set Product,zimmerman,539,1986
+All permutations,baseline,807,2948
+All permutations,chi,186,2523
+Set Product,zimmerman,174,59
+All permutations,chi,465,417
+All permutations,chi,464,2286
+Set Product,zimmerman,595,2389
+Set Product,zimmerman,229,2456
+Set Product,chi,734,3309
+All permutations,zimmerman,229,3327
+All permutations,chi,629,4558
+All permutations,zimmerman,194,3233
+All permutations,chi,279,2336
+All permutations,chi,508,30
+Set Product,baseline,515,305
+All permutations,zimmerman,174,491
+All permutations,zimmerman,696,2983
+Set Product,chi,272,1995
+All permutations,chi,662,7705
+Set Product,chi,139,448
+All permutations,baseline,341,2034
+Set Product,chi,508,240
+All permutations,chi,129,1658
+All permutations,chi,371,2603
+All permutations,baseline,175,510
+All permutations,zimmerman,50,2134
+Set Product,zimmerman,308,2346
+All permutations,baseline,698,170
+Set Product,baseline,551,1313
+Set Product,zimmerman,532,85
+All permutations,chi,170,1583
+Set Product,baseline,426,1140
+All permutations,baseline,93,1884
+Set Product,baseline,698,388
+All permutations,zimmerman,590,2244
+Set Product,chi,24,6310
+All permutations,baseline,103,111
+Set Product,chi,26,4014
+All permutations,chi,139,321
+Set Product,baseline,398,1962
+All permutations,chi,4,5596
+Set Product,zimmerman,262,2279
+Set Product,baseline,93,3807
+Set Product,zimmerman,590,296
+All permutations,chi,304,3387
+All permutations,zimmerman,13,2278
+Set Product,baseline,613,605
+All permutations,zimmerman,262,1014
+All permutations,baseline,613,515
+Set Product,chi,782,2183
+All permutations,chi,267,1331
+Set Product,zimmerman,777,3662
+Set Product,zimmerman,739,7219
+All permutations,zimmerman,228,1311
+Set Product,chi,714,370
+All permutations,zimmerman,134,1898
+Set Product,chi,498,1183
+Set Product,baseline,410,1659
+Set Product,zimmerman,760,1032
+All permutations,chi,500,1510
+All permutations,zimmerman,800,1920
+All permutations,baseline,314,560
+All permutations,zimmerman,690,1952
+All permutations,chi,656,3477
+Set Product,zimmerman,432,2378
+Set Product,chi,494,1705
+Set Product,chi,87,3343
+All permutations,chi,87,859
+All permutations,chi,494,1405
+Set Product,baseline,314,292
+Set Product,chi,538,3506
+Set Product,chi,725,255
+Set Product,baseline,236,460
+Set Product,chi,592,4461
+Set Product,chi,332,383
+All permutations,baseline,236,191
+All permutations,zimmerman,432,3441
+Set Product,chi,772,248
+All permutations,chi,609,50
+Set Product,chi,609,2561
+All permutations,zimmerman,777,3556
+Set Product,zimmerman,586,5351
+All permutations,chi,592,3230
+All permutations,chi,782,768
+Set Product,baseline,524,871
+All permutations,zimmerman,519,240
+All permutations,baseline,340,750
+Set Product,zimmerman,459,8033
+Set Product,baseline,643,2983
+Complex Numbers,baseline,271,2678
+Set Product,zimmerman,204,359
+All permutations,chi,272,175
+Complex Numbers,baseline,591,1483
+Set Product,chi,133,1788
+Set Product,baseline,596,3591
+All permutations,zimmerman,739,3925
+All permutations,chi,24,3824
+All permutations,baseline,658,4911
+Averager,zimmerman,162,766
+Set Product,zimmerman,519,150
+All permutations,baseline,576,973
+Set Product,chi,534,1473
+Averager,baseline,591,375
+Set Product,zimmerman,407,3813
+Complex Numbers,baseline,633,4202
+Set Product,baseline,731,2779
+Set Product,baseline,318,3241
+Set Product,chi,566,2366
+Complex Numbers,chi,571,4616
+Complex Numbers,baseline,58,4639
+Set Product,chi,294,1565
+Complex Numbers,chi,753,1195
+Averager,baseline,203,30
+All permutations,zimmerman,355,2112
+Set Product,zimmerman,740,2335
+Set Product,baseline,324,974
+Complex Numbers,chi,516,3216
+Complex Numbers,zimmerman,722,3751
+All permutations,zimmerman,416,2284
+Complex Numbers,chi,72,766
+Set Product,zimmerman,467,2129
+Set Product,baseline,659,5852
+Set Product,baseline,30,3720
+Set Product,chi,94,7861
+Set Product,chi,737,3542
+Set Product,baseline,576,965
+Averager,chi,571,850
+Complex Numbers,zimmerman,162,3984
+All permutations,baseline,713,2152
+Set Product,zimmerman,29,4099
+Averager,zimmerman,722,480
+Complex Numbers,zimmerman,808,3347
+Complex Numbers,baseline,68,625
+All permutations,zimmerman,227,808
+Complex Numbers,baseline,203,90
+All permutations,chi,294,668
+All permutations,zimmerman,637,199
+All permutations,baseline,527,229
+Set Product,baseline,707,2340
+Set Product,chi,111,5938
+All permutations,baseline,489,1909
+All permutations,zimmerman,467,1935
+All permutations,baseline,95,2141
+Set Product,baseline,527,748
+Set Product,zimmerman,152,677
+Set Product,chi,810,7160
+Averager,chi,753,286
+Set Product,chi,683,2391
+All permutations,zimmerman,152,2109
+Set Product,chi,693,4047
+All permutations,chi,538,3044
+All permutations,baseline,324,258
+All permutations,baseline,383,4082
+Complex Numbers,zimmerman,798,6057
+All permutations,chi,100,434
+Set Product,baseline,234,2132
+All permutations,chi,557,2106
+Complex Numbers,zimmerman,549,628
+Set Product,baseline,157,1194
+Set Product,zimmerman,638,1033
+Complex Numbers,zimmerman,219,3698
+All permutations,baseline,30,3284
+Set Product,zimmerman,106,2645
+Set Product,chi,394,144
+Averager,zimmerman,798,431
+All permutations,baseline,707,1162
+Set Product,chi,476,591
+Averager,chi,182,584
+All permutations,zimmerman,740,2184
+Complex Numbers,zimmerman,533,137
+Complex Numbers,zimmerman,412,1859
+Set Product,baseline,628,487
+Set Product,zimmerman,536,3242
+All permutations,chi,479,3542
+All permutations,baseline,596,2294
+All permutations,baseline,515,1560
+All permutations,baseline,157,926
+Complex Numbers,baseline,618,1999
+All permutations,zimmerman,587,1321
+Set Product,baseline,8,2581
+All permutations,chi,94,2697
+All permutations,baseline,234,1834
+Set Product,zimmerman,587,2356
+Complex Numbers,zimmerman,582,987
+All permutations,chi,693,4373
+All permutations,zimmerman,153,611
+All permutations,chi,111,2349
+Averager,zimmerman,412,515
+All permutations,baseline,731,1386
+Set Product,baseline,651,4798
+Set Product,zimmerman,20,7414
+All permutations,chi,598,30
+Averager,chi,279,1124
+Averager,zimmerman,126,1452
+All permutations,zimmerman,307,180
+All permutations,baseline,628,30
+All permutations,zimmerman,221,1519
+Set Product,chi,598,173
+All permutations,zimmerman,106,1727
+All permutations,baseline,67,59
+Set Product,chi,445,7108
+All permutations,zimmerman,768,2273
+Averager,chi,264,2670
+All permutations,chi,716,3374
+All permutations,chi,189,3810
+Set Product,zimmerman,221,704
+Averager,zimmerman,219,802
+Complex Numbers,zimmerman,126,2248
+All permutations,baseline,651,2400
+Complex Numbers,zimmerman,185,3783
+Set Product,zimmerman,353,3179
+Set Product,chi,11,1018
+Complex Numbers,chi,565,1677
+Set Product,baseline,357,359
+Set Product,chi,676,1708
+Complex Numbers,zimmerman,218,2293
+Set Product,baseline,569,30
+All permutations,zimmerman,20,3437
+Averager,baseline,64,503
+Complex Numbers,baseline,596,216
+Complex Numbers,baseline,64,8642
+Complex Numbers,chi,208,1344
+Set Product,zimmerman,315,8883
+All permutations,chi,208,1004
+Set Product,baseline,21,2554
+Complex Numbers,chi,755,2973
+Averager,chi,565,297
+Set Product,zimmerman,381,1303
+Set Product,zimmerman,451,3467
+Averager,chi,755,570
+Set Product,baseline,425,150
+Complex Numbers,baseline,348,2323
+Complex Numbers,chi,444,729
+Complex Numbers,baseline,17,2833
+Set Product,baseline,7,3730
+Set Product,chi,674,910
+Set Product,baseline,301,3193
+All permutations,baseline,357,90
+Set Product,zimmerman,373,3060
+All permutations,chi,755,808
+All permutations,baseline,105,950
+Set Product,baseline,1,313
+Complex Numbers,zimmerman,758,428
+All permutations,baseline,408,1377
+Set Product,baseline,244,2095
+Complex Numbers,zimmerman,134,4347
+Set Product,chi,208,690
+Set Product,chi,699,30
+Complex Numbers,chi,639,3671
+Complex Numbers,baseline,88,3034
+Averager,chi,208,226
+All permutations,baseline,301,2186
+Complex Numbers,chi,350,2214
+Set Product,zimmerman,452,283
+Complex Numbers,chi,279,7383
+Complex Numbers,chi,811,3823
+Set Product,zimmerman,258,218
+Averager,zimmerman,749,896
+Averager,baseline,88,677
+Set Product,baseline,529,4767
+All permutations,chi,44,2603
+Complex Numbers,zimmerman,749,6172
+Complex Numbers,chi,511,3832
+All permutations,chi,445,1606
+Averager,zimmerman,218,598
+All permutations,zimmerman,638,33
+Averager,baseline,17,573
+Set Product,zimmerman,28,4566
+Complex Numbers,zimmerman,503,2385
+Set Product,baseline,781,1808
+All permutations,chi,699,392
+Averager,chi,365,1090
+Complex Numbers,zimmerman,387,1070
+Set Product,baseline,402,4014
+Set Product,baseline,386,6864
+Set Product,zimmerman,119,4983
+Set Product,chi,650,1923
+All permutations,baseline,27,6010
+Averager,zimmerman,758,532
+Complex Numbers,zimmerman,670,2424
+Complex Numbers,zimmerman,355,5448
+Set Product,baseline,661,2346
+Complex Numbers,baseline,809,1836
+Complex Numbers,chi,61,4730
+Complex Numbers,baseline,306,784
+Averager,zimmerman,355,1100
+Set Product,baseline,390,1260
+Complex Numbers,baseline,318,3215
+Complex Numbers,baseline,658,2871
+Averager,baseline,271,403
+Complex Numbers,baseline,105,264
+Complex Numbers,chi,365,3817
+Averager,chi,345,728
+All permutations,zimmerman,166,3382
+Complex Numbers,baseline,198,3343
+Complex Numbers,zimmerman,507,3813
+Set Product,zimmerman,166,7337
+Averager,chi,367,430
+Complex Numbers,baseline,515,3953
+Averager,baseline,410,1111
+Averager,baseline,422,408
+Complex Numbers,zimmerman,31,4460
+Averager,zimmerman,507,552
+Complex Numbers,baseline,422,2211
+Set Product,zimmerman,695,3472
+Complex Numbers,zimmerman,729,4882
+Complex Numbers,chi,367,2968
+Complex Numbers,chi,636,3703
+Averager,chi,636,854
+Averager,chi,73,208
+All permutations,baseline,117,2720
+Complex Numbers,chi,299,2923
+Complex Numbers,baseline,410,3052
+Set Product,zimmerman,431,970
+Complex Numbers,chi,240,4083
+All permutations,baseline,386,2788
+Complex Numbers,chi,345,3262
+Complex Numbers,chi,128,2053
+Complex Numbers,zimmerman,684,3671
+Set Product,chi,183,1491
+Complex Numbers,zimmerman,767,7453
+All permutations,baseline,649,1000
+Averager,baseline,515,851
+Set Product,zimmerman,632,252
+Complex Numbers,baseline,89,4277
+Complex Numbers,chi,24,7311
+Set Product,baseline,212,2823
+Set Product,zimmerman,358,2935
+Set Product,zimmerman,295,1306
+Complex Numbers,chi,364,3635
+All permutations,baseline,643,616
+Averager,baseline,198,992
+Complex Numbers,chi,479,9335
+Averager,chi,24,539
+Complex Numbers,zimmerman,196,59
+Set Product,baseline,735,850
+Averager,chi,361,266
+Averager,baseline,338,29
+Averager,chi,87,452
+All permutations,zimmerman,567,1315
+Complex Numbers,chi,108,3561
+Complex Numbers,chi,366,3844
+Averager,baseline,390,291
+Array-based Vector - Rule of Three,baseline,565,765
+Averager,baseline,89,1101
+Complex Numbers,zimmerman,740,4620
+Averager,zimmerman,746,463
+All permutations,zimmerman,632,1509
+All permutations,zimmerman,358,435
+Set Product,zimmerman,567,4338
+Set Product,baseline,207,2395
+Set Product,chi,62,845
+All permutations,baseline,212,2187
+Averager,baseline,658,1385
+Complex Numbers,chi,405,3132
+Complex Numbers,baseline,338,408
+Complex Numbers,chi,87,1470
+Complex Numbers,chi,584,482
+Averager,chi,364,480
+Complex Numbers,chi,492,67
+All permutations,baseline,450,2029
+Complex Numbers,chi,223,3908
+Set Product,zimmerman,627,2297
+Averager,chi,223,405
+Set Product,zimmerman,224,7179
+Complex Numbers,baseline,125,4097
+All permutations,baseline,390,609
+Complex Numbers,chi,759,5315
+Averager,chi,759,1584
+Complex Numbers,zimmerman,746,10
+Averager,chi,240,847
+Complex Numbers,baseline,390,1395
+Set Product,baseline,706,7571
+Complex Numbers,zimmerman,460,5445
+Averager,zimmerman,686,120
+All permutations,baseline,659,3581
+All permutations,zimmerman,119,3900
+Set Product,baseline,161,4169
+Complex Numbers,chi,182,5515
+Averager,zimmerman,387,832
+Set Product,chi,351,4529
+Set Product,baseline,363,4732
+All permutations,chi,11,2158
+Set Product,baseline,680,3274
+Complex Numbers,chi,644,4487
+Averager,zimmerman,375,1033
+Set Product,baseline,484,1814
+Set Product,baseline,19,2021
+Complex Numbers,chi,264,7230
+All permutations,chi,172,63
+Set Product,chi,115,4438
+All permutations,zimmerman,308,1762
+All permutations,baseline,142,3983
+All permutations,baseline,161,3076
+Set Product,zimmerman,610,3337
+Complex Numbers,chi,292,4398
+Averager,zimmerman,670,367
+Set Product,zimmerman,393,1964
+Averager,zimmerman,808,762
+Set Product,chi,172,155
+Complex Numbers,chi,445,2669
+Averager,chi,299,1006
+Set Product,baseline,577,4712
+Complex Numbers,zimmerman,375,4167
+Set Product,baseline,732,119
+Complex Numbers,chi,505,2997
+Averager,baseline,348,232
+Complex Numbers,chi,674,187
+Set Product,baseline,730,1836
+Set Product,zimmerman,710,7335
+Set Product,chi,449,2468
+Set Product,chi,110,3602
+Set Product,zimmerman,704,1035
+All permutations,zimmerman,750,2478
+All permutations,baseline,7,1048
+Set Product,baseline,543,4525
+Averager,baseline,667,828
+Complex Numbers,baseline,7,3694
+Complex Numbers,baseline,702,3457
+Complex Numbers,baseline,95,2377
+Set Product,chi,612,721
+Complex Numbers,baseline,442,5788
+Complex Numbers,chi,669,4407
+All permutations,baseline,577,2048
+Complex Numbers,chi,172,289
+All permutations,baseline,706,6296
+Set Product,chi,56,12975
+Set Product,baseline,55,1731
+Set Product,zimmerman,293,2679
+Set Product,chi,423,4174
+Complex Numbers,baseline,664,3991
+Averager,chi,644,1683
+Set Product,chi,481,95
+Complex Numbers,chi,304,9924
+Complex Numbers,chi,35,4813
+Complex Numbers,chi,275,3679
+Complex Numbers,baseline,360,2224
+All permutations,zimmerman,353,1568
+Complex Numbers,zimmerman,416,5904
+Averager,chi,511,1205
+All permutations,zimmerman,362,1285
+Averager,zimmerman,463,74
+Averager,zimmerman,226,413
+Averager,baseline,59,150
+Complex Numbers,baseline,621,4041
+Complex Numbers,baseline,103,523
+Complex Numbers,chi,465,1471
+All permutations,zimmerman,610,2273
+Set Product,chi,233,6285
+All permutations,baseline,217,1716
+Set Product,chi,602,9909
+Complex Numbers,zimmerman,648,238
+Set Product,chi,392,3999
+Set Product,chi,151,4849
+All permutations,baseline,543,3329
+Complex Numbers,chi,544,973
+Set Product,baseline,32,617
+Complex Numbers,zimmerman,463,384
+Averager,baseline,306,440
+Averager,zimmerman,648,662
+Set Product,zimmerman,333,360
+All permutations,baseline,428,2248
+Complex Numbers,zimmerman,239,2878
+Averager,chi,129,628
+Complex Numbers,chi,501,447
+Averager,chi,811,1334
+Averager,zimmerman,266,617
+Averager,chi,445,291
+Complex Numbers,baseline,625,5034
+Complex Numbers,baseline,205,3203
+Averager,chi,465,387
+Averager,chi,366,943
+Averager,chi,745,90
+Averager,baseline,809,429
+Set Product,baseline,287,575
+Averager,baseline,702,751
+Set Product,baseline,217,2900
+Averager,zimmerman,634,1314
+Set Product,zimmerman,687,2501
+All permutations,baseline,32,1852
+Set Product,chi,215,3022
+All permutations,zimmerman,23,4312
+Complex Numbers,chi,756,2622
+Averager,zimmerman,684,641
+Averager,chi,405,814
+All permutations,baseline,207,576
+Complex Numbers,zimmerman,50,3943
+Averager,zimmerman,239,727
+Set Product,zimmerman,23,3196
+Averager,chi,501,36
+All permutations,baseline,55,1242
+All permutations,chi,351,1061
+Averager,zimmerman,185,978
+Complex Numbers,baseline,715,3442
+Circular Linked List,zimmerman,609,30
+Averager,baseline,621,120
+Set Product,baseline,688,2199
+All permutations,chi,233,3080
+Complex Numbers,chi,270,4590
+Set Product,zimmerman,82,8430
+Complex Numbers,baseline,21,3278
+Set Product,zimmerman,568,214
+All permutations,chi,151,304
+Set Product,zimmerman,421,1510
+Complex Numbers,baseline,577,3358
+Averager,zimmerman,796,349
+Set Product,chi,6,210
+Averager,zimmerman,50,527
+Complex Numbers,chi,745,325
+Set Product,baseline,247,960
+Complex Numbers,zimmerman,266,277
+Complex Numbers,zimmerman,536,7300
+Complex Numbers,zimmerman,406,525
+All permutations,chi,602,30
+Averager,zimmerman,729,785
+All permutations,zimmerman,224,2966
+Averager,baseline,21,1552
+Averager,baseline,205,783
+All permutations,chi,423,2430
+Complex Numbers,zimmerman,352,4077
+All permutations,baseline,688,1611
+Complex Numbers,zimmerman,522,5309
+Complex Numbers,chi,716,6881
+Complex Numbers,baseline,428,2475
+All permutations,zimmerman,695,2586
+Averager,zimmerman,460,910
+Set Product,baseline,795,5190
+All permutations,zimmerman,568,821
+All permutations,baseline,721,1619
+Set Product,baseline,263,743
+All permutations,chi,389,2268
+All permutations,chi,754,975
+Set Product,baseline,721,5329
+Set Product,chi,778,7864
+Complex Numbers,baseline,667,3184
+Averager,chi,526,773
+Averager,chi,6,800
+Averager,baseline,428,444
+Complex Numbers,baseline,485,351
+Set Product,zimmerman,601,1482
+Set Product,zimmerman,585,209
+Averager,zimmerman,689,831
+Complex Numbers,chi,526,3424
+Set Product,zimmerman,298,5933
+Complex Numbers,chi,656,4185
+Averager,chi,716,1487
+Set Product,baseline,125,5707
+All permutations,baseline,529,2161
+Set Product,baseline,132,2726
+Set Product,chi,736,878
+Set Product,zimmerman,320,1906
+Complex Numbers,baseline,643,105
+Complex Numbers,baseline,92,3967
+Averager,chi,756,149
+Averager,chi,14,453
+Averager,chi,681,1000
+Averager,baseline,442,365
+All permutations,chi,481,1714
+Set Product,chi,765,4267
+Averager,chi,793,630
+Set Product,baseline,130,458
+Set Product,zimmerman,420,2941
+Complex Numbers,chi,14,1920
+Complex Numbers,chi,193,651
+Set Product,baseline,321,1851
+Complex Numbers,zimmerman,689,2608
+Complex Numbers,baseline,383,5114
+All permutations,chi,215,1403
+Set Product,zimmerman,785,6987
+Set Product,baseline,326,436
+Averager,baseline,715,788
+Averager,baseline,383,2196
+Set Product,chi,622,3519
+Set Product,baseline,136,2518
+Set Product,baseline,717,1499
+Set Product,baseline,593,1164
+Set Product,baseline,400,3045
+Set Product,chi,154,232
+All permutations,baseline,10,2589
+All permutations,zimmerman,687,2000
+Set Product,zimmerman,206,2633
+Averager,baseline,649,657
+Complex Numbers,baseline,649,3614
+Set Product,baseline,10,3749
+All permutations,chi,765,1440
+Set Product,baseline,131,6573
+All permutations,baseline,400,994
+Complex Numbers,chi,456,4316
+Set Product,baseline,713,5853
+Set Product,baseline,118,7216
+Complex Numbers,baseline,86,3722
+Set Product,zimmerman,409,2249
+Complex Numbers,chi,56,8915
+Averager,chi,544,257
+Set Product,chi,635,2150
+All permutations,zimmerman,542,1461
+Set Product,baseline,22,1542
+Averager,baseline,618,194
+Set Product,chi,804,1990
+Set Product,zimmerman,542,3211
+Complex Numbers,zimmerman,467,3569
+Complex Numbers,baseline,430,4375
+Complex Numbers,zimmerman,539,3762
+Averager,chi,108,120
+Averager,chi,292,901
+Averager,baseline,580,244
+All permutations,zimmerman,420,2405
+Set Product,chi,202,2564
+Averager,chi,639,642
+All permutations,baseline,136,2725
+Averager,baseline,86,659
+Set Product,chi,504,3825
+Complex Numbers,baseline,580,673
+Set Product,baseline,548,2457
+All permutations,baseline,730,962
+Complex Numbers,zimmerman,276,4222
+Set Product,chi,164,3139
+All permutations,zimmerman,206,213
+Complex Numbers,chi,284,3161
+Complex Numbers,chi,389,4029
+All permutations,chi,190,2529
+All permutations,zimmerman,29,240
+Averager,chi,456,838
+Set Product,chi,368,4194
+Set Product,zimmerman,607,1375
+All permutations,zimmerman,785,2044
+Averager,chi,389,593
+Complex Numbers,chi,371,9091
+Complex Numbers,chi,693,4714
+Complex Numbers,chi,391,4079
+All permutations,baseline,22,1403
+Complex Numbers,chi,464,6404
+Averager,baseline,489,767
+Averager,baseline,761,187
+All permutations,zimmerman,82,7256
+Set Product,zimmerman,517,3076
+Averager,baseline,95,358
+Complex Numbers,baseline,682,3046
+Complex Numbers,zimmerman,495,2457
+Complex Numbers,chi,662,4191
+Complex Numbers,chi,681,5977
+Set Product,baseline,518,3879
+Averager,zimmerman,276,1744
+Complex Numbers,baseline,187,5167
+Set Product,chi,461,1351
+Averager,chi,486,1240
+Set Product,baseline,124,4663
+Complex Numbers,baseline,77,5905
+Complex Numbers,baseline,328,426
+Complex Numbers,baseline,341,2546
+Averager,zimmerman,181,1297
+All permutations,baseline,548,1867
+Averager,zimmerman,539,660
+Averager,chi,213,644
+All permutations,chi,193,1156
+Set Product,baseline,647,1512
+Complex Numbers,chi,213,4014
+Averager,baseline,341,782
+Set Product,chi,114,1302
+Set Product,baseline,799,1115
+Complex Numbers,baseline,576,2664
+Averager,zimmerman,495,600
+Complex Numbers,zimmerman,171,6457
+Averager,baseline,682,982
+Complex Numbers,chi,530,5280
+Set Product,chi,697,261
+Set Product,zimmerman,789,2445
+Set Product,zimmerman,179,2715
+Set Product,zimmerman,801,4284
+Averager,zimmerman,416,1094
+Complex Numbers,baseline,400,585
+Averager,zimmerman,113,918
+Set Product,baseline,16,391
+Averager,chi,35,1969
+Complex Numbers,zimmerman,634,4550
+Complex Numbers,zimmerman,113,3508
+Set Product,zimmerman,472,7118
+Complex Numbers,chi,305,441
+Averager,baseline,430,784
+Set Product,zimmerman,241,1777
+Averager,zimmerman,38,163
+Complex Numbers,baseline,143,6385
+Complex Numbers,baseline,53,1682
+Complex Numbers,zimmerman,800,3174
+Complex Numbers,baseline,489,2851
+Complex Numbers,chi,379,3197
+Averager,zimmerman,740,1051
+Complex Numbers,chi,630,4950
+Averager,baseline,576,905
+All permutations,zimmerman,517,2671
+Set Product,zimmerman,512,3655
+Averager,zimmerman,522,67
+Set Product,chi,441,3290
+Averager,baseline,116,691
+Complex Numbers,chi,37,1110
+All permutations,zimmerman,601,5344
+Complex Numbers,chi,66,4542
+Set Product,baseline,482,3484
+Set Product,chi,69,4044
+Complex Numbers,baseline,116,5077
+Set Product,baseline,222,3819
+All permutations,zimmerman,536,2578
+Complex Numbers,zimmerman,188,4329
+Averager,baseline,143,1255
+Complex Numbers,zimmerman,690,5746
+Set Product,baseline,788,4313
+Complex Numbers,chi,629,6096
+Averager,chi,530,908
+Complex Numbers,baseline,561,4734
+Set Product,chi,673,1260
+Complex Numbers,zimmerman,152,2384
+Averager,chi,391,993
+Complex Numbers,zimmerman,632,1705
+All permutations,zimmerman,179,2104
+All permutations,baseline,717,500
+Set Product,baseline,309,672
+Complex Numbers,baseline,2,2262
+All permutations,baseline,363,2202
+Set Product,chi,563,509
+All permutations,chi,673,1044
+Averager,zimmerman,632,342
+All permutations,baseline,118,2232
+Complex Numbers,zimmerman,787,83
+Averager,chi,371,832
+Complex Numbers,zimmerman,41,376
+Averager,chi,66,1376
+Averager,chi,233,1867
+Set Product,chi,253,3904
+Averager,zimmerman,188,961
+Averager,baseline,256,62
+Averager,baseline,92,1201
+Complex Numbers,baseline,145,129
+Averager,baseline,311,1015
+Complex Numbers,zimmerman,770,3492
+Averager,zimmerman,533,60
+Complex Numbers,zimmerman,317,3124
+All permutations,chi,778,445
+Complex Numbers,baseline,311,3807
+Complex Numbers,zimmerman,547,875
+Complex Numbers,baseline,396,3862
+All permutations,chi,804,3768
+Averager,zimmerman,171,529
+Complex Numbers,zimmerman,63,3337
+Averager,baseline,561,1012
+Averager,baseline,77,2469
+Set Product,baseline,260,3423
+Complex Numbers,chi,137,3597
+Set Product,zimmerman,382,2785
+All permutations,chi,392,475
+Averager,chi,479,868
+All permutations,zimmerman,512,1580
+Set Product,baseline,123,587
+Complex Numbers,baseline,558,2795
+Set Product,chi,666,3999
+All permutations,baseline,680,2178
+Averager,zimmerman,590,260
+Averager,zimmerman,277,716
+Complex Numbers,chi,725,3562
+Set Product,chi,588,2037
+Averager,chi,137,941
+Set Product,zimmerman,779,1276
+All permutations,zimmerman,320,1806
+Complex Numbers,zimmerman,277,3499
+All permutations,chi,622,1663
+Averager,zimmerman,531,972
+All permutations,chi,368,2174
+Averager,baseline,558,425
+Averager,zimmerman,317,1012
+Averager,chi,725,560
+Averager,zimmerman,547,216
+Averager,zimmerman,696,1295
+Set Product,chi,783,1431
+Set Product,zimmerman,709,2848
+All permutations,chi,395,11562
+Complex Numbers,zimmerman,20,2726
+Complex Numbers,zimmerman,297,2915
+Understanding Pointers - First_Char,baseline,753,122
+All permutations,chi,783,147
+Set Product,chi,190,3993
+Averager,baseline,187,433
+Set Product,chi,496,176
+Set Product,zimmerman,531,2408
+Averager,chi,464,829
+Complex Numbers,chi,429,5736
+Averager,chi,449,765
+All permutations,baseline,222,2685
+Complex Numbers,zimmerman,176,4827
+Averager,zimmerman,176,709
+Complex Numbers,baseline,75,31
+All permutations,chi,563,402
+Complex Numbers,zimmerman,696,5511
+Set Product,zimmerman,249,6413
+All permutations,baseline,795,3368
+All permutations,chi,734,1631
+Complex Numbers,chi,449,4348
+Complex Numbers,zimmerman,590,582
+Complex Numbers,zimmerman,599,3814
+All permutations,chi,588,2174
+Averager,baseline,633,2595
+Averager,chi,4,805
+All permutations,chi,149,539
+All permutations,chi,666,3237
+Averager,baseline,411,450
+Set Product,chi,562,2971
+Complex Numbers,chi,73,4602
+Complex Numbers,zimmerman,589,4328
+All permutations,baseline,309,2572
+All permutations,chi,429,608
+Averager,zimmerman,297,1112
+Set Product,chi,149,3049
+Set Product,zimmerman,764,3123
+Set Product,baseline,691,3924
+All permutations,baseline,660,30
+Averager,zimmerman,20,665
+Set Product,chi,774,1661
+Complex Numbers,baseline,385,2914
+Set Product,chi,395,5599
+Set Product,baseline,660,946
+Complex Numbers,chi,714,244
+Complex Numbers,baseline,173,2754
+Averager,chi,629,864
+Averager,chi,61,385
+All permutations,zimmerman,531,3233
+Averager,chi,139,779
+All permutations,baseline,551,1057
+All permutations,chi,619,1734
+Set Product,baseline,104,2266
+All permutations,baseline,518,3110
+All permutations,chi,47,4213
+Complex Numbers,chi,170,516
+Set Product,zimmerman,227,4175
+Complex Numbers,baseline,10,3536
+Averager,chi,284,610
+Averager,zimmerman,352,746
+Averager,zimmerman,63,814
+Set Product,baseline,147,6154
+Set Product,chi,540,957
+Set Product,chi,546,61
+All permutations,chi,498,1360
+Complex Numbers,zimmerman,262,4783
+Set Product,chi,603,4046
+Complex Numbers,zimmerman,587,3452
+Averager,baseline,385,446
+Complex Numbers,chi,4,3778
+All permutations,zimmerman,710,3870
+All permutations,zimmerman,225,4758
+All permutations,baseline,594,2010
+All permutations,chi,635,1503
+Set Product,chi,155,7505
+All permutations,baseline,124,60
+Set Product,zimmerman,743,3635
+Averager,zimmerman,587,438
+Complex Numbers,chi,98,852
+All permutations,chi,566,478
+All permutations,zimmerman,607,1471
+Set Product,zimmerman,440,1504
+Set Product,zimmerman,671,3188
+Complex Numbers,zimmerman,153,690
+Complex Numbers,baseline,157,2910
+Set Product,zimmerman,604,4043
+Set Product,zimmerman,528,4521
+Complex Numbers,baseline,659,3843
+Complex Numbers,baseline,93,3373
+All permutations,baseline,104,1230
+Complex Numbers,baseline,433,2981
+All permutations,zimmerman,586,4490
+Set Product,chi,0,5368
+Averager,zimmerman,791,2476
+All permutations,zimmerman,671,1504
+All permutations,chi,155,1976
+Set Product,baseline,34,1228
+Averager,baseline,613,477
+Averager,zimmerman,167,264
+Set Product,zimmerman,42,1956
+Set Product,chi,468,647
+Complex Numbers,baseline,175,2053
+Complex Numbers,baseline,613,1812
+Complex Numbers,chi,734,2789
+Set Product,zimmerman,141,650
+Set Product,baseline,65,3757
+Averager,chi,144,553
+Averager,zimmerman,467,997
+Set Product,chi,169,3157
+Averager,baseline,175,241
+Complex Numbers,chi,139,94
+All permutations,baseline,244,570
+Averager,baseline,93,515
+All permutations,chi,631,8212
+Set Product,zimmerman,209,3444
+Set Product,baseline,231,2313
+Complex Numbers,zimmerman,167,2720
+Averager,baseline,659,978
+Set Product,baseline,377,149
+All permutations,baseline,231,1127
+Complex Numbers,chi,202,3737
+Averager,chi,270,746
+Complex Numbers,chi,498,3745
+Set Product,chi,631,987
+Set Product,chi,44,3224
+All permutations,chi,202,1344
+All permutations,chi,0,2964
+Complex Numbers,chi,216,3713
+Averager,chi,498,1393
+Complex Numbers,baseline,74,4607
+All permutations,baseline,263,143
+Complex Numbers,chi,592,6080
+Set Product,chi,47,6299
+All permutations,chi,253,4131
+All permutations,baseline,273,3299
+Complex Numbers,baseline,807,2923
+Set Product,zimmerman,665,5719
+Averager,baseline,433,597
+Set Product,baseline,581,302
+Set Product,baseline,51,7766
+Set Product,baseline,545,4231
+Set Product,baseline,344,3065
+Complex Numbers,chi,538,1329
+All permutations,chi,573,184
+Set Product,baseline,273,4083
+Complex Numbers,chi,609,7586
+Set Product,baseline,70,6216
+Complex Numbers,chi,144,4907
+Set Product,chi,216,3024
+Complex Numbers,baseline,117,2131
+Set Product,baseline,462,2385
+Complex Numbers,zimmerman,107,2077
+Set Product,baseline,49,1755
+Complex Numbers,zimmerman,541,464
+All permutations,zimmerman,42,1679
+Set Product,chi,550,381
+Averager,chi,786,787
+Complex Numbers,baseline,705,268
+Averager,baseline,173,493
+Set Product,chi,564,2339
+All permutations,baseline,268,1276
+Averager,chi,810,1251
+Averager,chi,797,314
+Complex Numbers,chi,57,5437
+All permutations,zimmerman,209,1872
+All permutations,chi,9,30
+Averager,chi,267,1004
+Complex Numbers,baseline,142,6333
+Set Product,zimmerman,156,1610
+All permutations,chi,216,2092
+Set Product,zimmerman,480,1927
+Complex Numbers,chi,294,1033
+All permutations,zimmerman,156,1830
+All permutations,baseline,51,6644
+Set Product,baseline,268,1872
+All permutations,chi,115,687
+Set Product,zimmerman,378,5281
+All permutations,chi,564,839
+Set Product,chi,653,881
+Set Product,baseline,506,4919
+Set Product,baseline,701,2630
+Complex Numbers,baseline,411,3348
+Complex Numbers,chi,786,3210
+All permutations,baseline,691,2531
+Averager,zimmerman,599,592
+All permutations,zimmerman,378,1467
+All permutations,zimmerman,298,3020
+All permutations,baseline,545,1431
+Complex Numbers,baseline,606,948
+Complex Numbers,chi,138,350
+Averager,zimmerman,690,233
+All permutations,zimmerman,431,30
+All permutations,chi,676,2258
+Set Product,chi,388,1455
+Set Product,zimmerman,399,3053
+Set Product,baseline,323,4969
+Averager,chi,429,1073
+Set Product,chi,776,3355
+Set Product,baseline,487,1326
+Complex Numbers,chi,797,1982
+Set Product,chi,803,421
+Set Product,zimmerman,747,2857
+Set Product,chi,369,1727
+Averager,chi,557,971
+Complex Numbers,baseline,273,156
+All permutations,zimmerman,480,1765
+Averager,baseline,273,30
+Set Product,zimmerman,163,1831
+Complex Numbers,baseline,414,3489
+All permutations,baseline,581,30
+Averager,zimmerman,800,597
+Averager,chi,170,217
+All permutations,baseline,34,346
+Set Product,zimmerman,497,1175
+Complex Numbers,zimmerman,36,4098
+Complex Numbers,chi,557,65
+Complex Numbers,chi,291,1467
+All permutations,baseline,788,3897
+Averager,baseline,577,565
+Averager,zimmerman,654,655
+Averager,chi,138,161
+Complex Numbers,baseline,335,473
+Complex Numbers,baseline,641,109
+All permutations,chi,504,3058
+Averager,baseline,74,307
+All permutations,chi,603,2516
+Averager,baseline,606,337
+All permutations,zimmerman,373,2194
+Averager,chi,291,1372
+Complex Numbers,zimmerman,654,4729
+Set Product,baseline,641,180
+Averager,zimmerman,777,1206
+All permutations,zimmerman,241,477
+All permutations,chi,56,5247
+Complex Numbers,zimmerman,347,73
+Averager,baseline,117,1243
+Set Product,baseline,790,1064
+Averager,baseline,427,1750
+All permutations,baseline,506,4578
+Averager,chi,609,1289
+All permutations,zimmerman,747,2315
+All permutations,zimmerman,764,2297
+All permutations,chi,169,701
+Set Product,zimmerman,168,6650
+All permutations,chi,148,60
+Averager,baseline,705,797
+Complex Numbers,chi,810,3272
+Averager,baseline,142,1150
+All permutations,chi,403,3577
+Set Product,zimmerman,727,501
+All permutations,baseline,70,3648
+Complex Numbers,zimmerman,739,4086
+Averager,chi,592,3194
+Complex Numbers,zimmerman,777,2816
+All permutations,chi,776,1469
+Set Product,baseline,112,5488
+Averager,baseline,625,1310
+All permutations,zimmerman,393,743
+Set Product,baseline,109,3475
+Complex Numbers,chi,754,6000
+All permutations,zimmerman,440,2047
+All permutations,baseline,109,1443
+Set Product,zimmerman,303,2990
+Complex Numbers,zimmerman,542,3233
+All permutations,baseline,344,196
+Averager,zimmerman,770,541
+Averager,zimmerman,751,1385
+Dynamic Queue,chi,430,6953
+Set Product,chi,40,30
+Averager,zimmerman,262,859
+All permutations,chi,257,1697
+Averager,baseline,71,100
+All permutations,chi,562,2439
+Dynamic Queue,chi,591,2211
+Complex Numbers,zimmerman,459,3359
+All permutations,chi,697,1213
+Complex Numbers,chi,486,325
+All permutations,baseline,230,60
+Averager,baseline,335,621
+Complex Numbers,baseline,8,3952
+Set Product,baseline,48,326
+Complex Numbers,chi,100,258
+Complex Numbers,chi,361,7956
+Dynamic Queue,baseline,162,2482
+Complex Numbers,chi,272,566
+Averager,zimmerman,739,848
+Set Product,baseline,230,254
+Set Product,chi,728,4480
+Averager,baseline,596,1048
+Set Product,zimmerman,5,1548
+Binary Tree Depth,chi,430,1410
+Complex Numbers,zimmerman,106,2512
+Complex Numbers,zimmerman,760,5421
+All permutations,baseline,112,3090
+Complex Numbers,baseline,537,230
+All permutations,zimmerman,789,182
+Complex Numbers,baseline,340,1953
+Averager,baseline,398,660
+Averager,zimmerman,174,388
+Set Product,zimmerman,750,3864
+Set Product,baseline,474,1896
+All permutations,chi,775,1837
+Set Product,chi,99,1334
+Set Product,chi,43,256
+Complex Numbers,zimmerman,794,87
+Set Product,chi,471,5332
+Averager,zimmerman,106,629
+Averager,baseline,340,773
+Set Product,zimmerman,327,3925
+Averager,zimmerman,134,580
+All permutations,zimmerman,604,2536
+Set Product,chi,158,56
+Set Product,chi,257,3286
+Averager,chi,784,1419
+Set Product,zimmerman,499,2766
+Averager,chi,782,129
+All permutations,chi,471,6713
+Complex Numbers,zimmerman,432,3669
+All permutations,zimmerman,382,1550
+Complex Numbers,chi,120,2055
+Complex Numbers,baseline,408,2236
+Set Product,baseline,140,60
+All permutations,zimmerman,466,651
+All permutations,baseline,84,1470
+Averager,zimmerman,432,930
+Complex Numbers,baseline,427,7482
+Averager,zimmerman,459,752
+Complex Numbers,baseline,527,1364
+Complex Numbers,chi,765,5557
+Dynamic Queue,baseline,387,433
+All permutations,baseline,123,314
+Averager,baseline,527,294
+All permutations,zimmerman,451,1485
+All permutations,baseline,701,2698
+Dynamic Queue,zimmerman,444,1599
+Complex Numbers,chi,99,3081
+Set Product,zimmerman,362,2514
+Set Product,zimmerman,281,60
+All permutations,zimmerman,76,1321
+Set Product,baseline,316,60
+All permutations,chi,441,137
+Complex Numbers,chi,325,2295
+Complex Numbers,baseline,252,1489
+Set Product,zimmerman,523,2199
+All permutations,chi,69,1729
+Set Product,baseline,712,1352
+Averager,chi,370,584
+Set Product,zimmerman,726,5270
+Set Product,zimmerman,76,2058
+All permutations,baseline,678,855
+All permutations,zimmerman,181,3298
+All permutations,chi,616,306
+Dynamic Queue,zimmerman,45,1922
+Set Product,baseline,380,1122
+Complex Numbers,chi,177,81
+Set Product,chi,413,4198
+All permutations,zimmerman,743,970
+Set Product,baseline,251,3417
+Set Product,chi,616,1435
+All permutations,baseline,321,2077
+All permutations,zimmerman,315,4624
+Complex Numbers,chi,111,1763
+All permutations,baseline,712,788
+Averager,zimmerman,542,903
+Set Product,zimmerman,466,2291
+Averager,zimmerman,760,1402
+Complex Numbers,zimmerman,642,2423
+Complex Numbers,zimmerman,768,3942
+Averager,zimmerman,153,335
+Set Product,chi,470,1841
+Complex Numbers,chi,784,2166
+Averager,baseline,807,712
+Set Product,baseline,490,306
+Averager,chi,189,1251
+Complex Numbers,baseline,217,3013
+Set Product,chi,85,103
+All permutations,chi,470,1808
+Set Product,baseline,312,1715
+All permutations,chi,154,12
+Averager,baseline,157,537
+Averager,chi,111,322
+Set Product,zimmerman,283,161
+Complex Numbers,baseline,234,862
+Complex Numbers,zimmerman,747,2973
+Averager,chi,272,335
+Set Product,zimmerman,447,1305
+All permutations,chi,85,78
+Complex Numbers,baseline,769,2521
+Set Product,chi,397,1423
+All permutations,chi,397,1384
+All permutations,chi,83,250
+Averager,zimmerman,642,810
+Complex Numbers,baseline,398,3049
+All permutations,baseline,251,1654
+Complex Numbers,baseline,707,920
+All permutations,chi,183,539
+Binary Tree Depth,chi,64,1319
+All permutations,baseline,482,983
+Averager,baseline,707,765
+Averager,baseline,769,652
+All permutations,baseline,312,1885
+Binary Tree Depth,chi,313,150
+Averager,baseline,694,1223
+Binary Tree Depth,baseline,162,901
+Complex Numbers,baseline,32,2431
+Averager,chi,275,596
+All permutations,zimmerman,447,1141
+Set Product,chi,83,174
+All permutations,baseline,147,309
+All permutations,zimmerman,499,3562
+Dynamic Queue,baseline,218,3961
+Complex Numbers,baseline,731,3333
+Averager,chi,304,450
+All permutations,zimmerman,336,13
+Set Product,zimmerman,336,30
+Set Product,chi,574,1971
+Complex Numbers,baseline,694,273
+Dynamic Queue,chi,577,2678
+All permutations,baseline,49,3970
+All permutations,chi,369,2264
+Dynamic Queue,baseline,692,3118
+Averager,baseline,744,1650
+Complex Numbers,baseline,363,4407
+Complex Numbers,baseline,744,3786
+All permutations,chi,461,466
+Set Product,baseline,623,3521
+Dynamic Queue,zimmerman,278,5123
+Dynamic Queue,chi,398,5540
+Complex Numbers,chi,566,3750
+Complex Numbers,zimmerman,421,3306
+Dynamic Queue,chi,64,5504
+Averager,baseline,243,946
+Averager,zimmerman,768,1685
+Complex Numbers,baseline,27,4658
+All permutations,zimmerman,303,2590
+Dynamic Queue,zimmerman,644,6810
+All permutations,chi,424,11
+Complex Numbers,zimmerman,315,11912
+Complex Numbers,chi,453,3702
+Averager,chi,693,1084
+Binary Tree Depth,baseline,478,180
+Averager,chi,325,259
+Complex Numbers,zimmerman,166,3776
+Complex Numbers,zimmerman,638,1743
+Averager,baseline,537,130
+Complex Numbers,chi,622,45
+Complex Numbers,zimmerman,750,1163
+All permutations,chi,388,3567
+Averager,baseline,363,874
+Binary Tree Depth,zimmerman,45,1473
+Dynamic Queue,chi,17,4114
+Dynamic Queue,baseline,219,2649
+Binary Tree Depth,chi,577,1986
+All permutations,baseline,647,1566
+All permutations,zimmerman,163,2392
+Binary Tree Depth,chi,198,1141
+Dynamic Queue,chi,203,2743
+Binary Tree Depth,baseline,729,2199
+Complex Numbers,chi,700,6071
+Dynamic Queue,chi,271,3708
+Complex Numbers,zimmerman,751,1050
+Averager,baseline,551,747
+Complex Numbers,zimmerman,163,1476
+Complex Numbers,chi,514,1960
+Averager,baseline,414,570
+Binary Tree Depth,baseline,226,1293
+Binary Tree Depth,baseline,219,1287
+Dynamic Queue,chi,198,3282
+Averager,baseline,8,29
+Averager,zimmerman,224,1084
+Complex Numbers,baseline,244,987
+Dynamic Queue,zimmerman,35,7287
+Set Product,zimmerman,703,3848
+Complex Numbers,zimmerman,224,3455
+Complex Numbers,baseline,551,2068
+Complex Numbers,chi,189,6068
+Averager,chi,656,1313
+Dynamic Queue,baseline,171,3303
+Complex Numbers,zimmerman,559,306
+Averager,baseline,244,450
+Dynamic Queue,zimmerman,741,30
+Complex Numbers,zimmerman,568,3209
+Binary Tree Depth,zimmerman,811,1257
+Complex Numbers,baseline,691,2114
+Complex Numbers,baseline,52,4110
+Set Product,chi,784,473
+Complex Numbers,baseline,402,3730
+Complex Numbers,zimmerman,362,1112
+Dynamic Queue,chi,414,3474
+Binary Tree Depth,baseline,218,554
+Dynamic Queue,zimmerman,349,606
+Dynamic Queue,zimmerman,669,4083
+Dynamic Queue,zimmerman,526,297
+Binary Tree Depth,zimmerman,669,1488
+Dynamic Queue,chi,88,2755
+Dynamic Queue,chi,302,743
+Dynamic Queue,baseline,126,5468
+Complex Numbers,zimmerman,610,3059
+Dynamic Queue,zimmerman,636,6995
+Binary Tree Depth,chi,271,1505
+Binary Tree Depth,baseline,533,758
+Binary Tree Depth,zimmerman,636,59
+Dynamic Queue,chi,410,2717
+Dynamic Queue,zimmerman,240,3417
+Complex Numbers,chi,44,414
+Dynamic Queue,baseline,533,2801
+Averager,chi,261,29
+Binary Tree Depth,baseline,165,1293
+Complex Numbers,zimmerman,221,3973
+Binary Tree Depth,zimmerman,526,1139
+Averager,baseline,543,1109
+Averager,zimmerman,610,534
+Averager,baseline,691,389
+Complex Numbers,chi,332,156
+Dynamic Queue,baseline,165,123
+Dynamic Queue,zimmerman,108,572
+Dynamic Queue,baseline,355,4069
+Averager,baseline,234,130
+Binary Tree Depth,baseline,355,690
+Averager,chi,734,708
+Averager,zimmerman,536,718
+Set Product,baseline,54,4495
+Dynamic Queue,baseline,507,3054
+Dynamic Queue,zimmerman,784,5427
+Dynamic Queue,zimmerman,629,3778
+Binary Tree Depth,baseline,507,415
+Binary Tree Depth,chi,17,1036
+Complex Numbers,baseline,799,3302
+Binary Tree Depth,chi,410,1170
+Binary Tree Depth,zimmerman,35,1614
+Dynamic Queue,baseline,226,2709
+Complex Numbers,baseline,161,2460
+Complex Numbers,chi,666,3998
+Binary Tree Depth,zimmerman,345,1319
+Binary Tree Depth,zimmerman,629,1278
+Complex Numbers,zimmerman,353,2151
+Complex Numbers,baseline,529,5064
+Dynamic Queue,zimmerman,345,1914
+Array-based Vector - Rule of Three,baseline,753,1275
+Complex Numbers,zimmerman,225,4101
+Dynamic Queue,baseline,749,3568
+Complex Numbers,chi,11,3485
+Complex Numbers,baseline,55,4491
+Dynamic Queue,chi,658,8158
+All permutations,zimmerman,727,590
+Averager,chi,172,97
+Averager,baseline,52,1032
+Dynamic Queue,chi,348,729
+Averager,chi,11,926
+Complex Numbers,chi,110,918
+Complex Numbers,baseline,123,986
+Complex Numbers,baseline,34,1850
+Averager,baseline,402,321
+Dynamic Queue,zimmerman,367,4287
+Averager,baseline,212,921
+Binary Tree Depth,zimmerman,583,748
+Averager,baseline,217,1225
+Complex Numbers,chi,481,4839
+Complex Numbers,baseline,212,3562
+Binary Tree Depth,chi,8,2369
+Complex Numbers,baseline,450,4568
+Binary Tree Depth,baseline,749,612
+Dynamic Queue,chi,116,5716
+Complex Numbers,baseline,706,292
+Averager,baseline,161,593
+Complex Numbers,baseline,118,4086
+Complex Numbers,chi,199,588
+Complex Numbers,baseline,207,2246
+Dynamic Queue,baseline,412,2799
+Dynamic Queue,chi,515,6488
+Complex Numbers,chi,69,457
+Dynamic Queue,zimmerman,120,2403
+Binary Tree Depth,baseline,412,507
+Binary Tree Depth,zimmerman,753,1915
+Complex Numbers,chi,259,360
+Binary Tree Depth,zimmerman,264,6568
+Binary Tree Depth,chi,88,995
+Binary Tree Depth,zimmerman,108,540
+Complex Numbers,baseline,506,4191
+Dynamic Queue,zimmerman,753,2633
+Dynamic Queue,chi,95,2494
+Dynamic Queue,baseline,317,5201
+Dynamic Queue,chi,422,3400
+Complex Numbers,chi,388,4488
+Dynamic Queue,zimmerman,264,175
+Averager,chi,388,641
+Dynamic Queue,baseline,276,8692
+Dynamic Queue,baseline,555,468
+Averager,baseline,55,1336
+Averager,chi,804,610
+Complex Numbers,zimmerman,695,3854
+Complex Numbers,baseline,263,2679
+Complex Numbers,chi,804,3785
+Dynamic Queue,baseline,375,4686
+Complex Numbers,chi,233,3816
+Averager,zimmerman,695,757
+Set Product,chi,403,1034
+Averager,baseline,7,465
+Complex Numbers,chi,215,3239
+Averager,zimmerman,221,964
+Binary Tree Depth,baseline,277,1717
+Complex Numbers,zimmerman,179,2883
+All permutations,zimmerman,615,652
+Dynamic Queue,chi,121,2504
+Averager,baseline,58,813
+Averager,chi,69,286
+Averager,chi,215,439
+Averager,chi,199,644
+Binary Tree Depth,zimmerman,189,2737
+Binary Tree Depth,zimmerman,242,829
+Binary Tree Depth,baseline,375,1154
+Dynamic Queue,zimmerman,201,243
+All permutations,chi,90,2061
+Complex Numbers,chi,337,715
+Dynamic Queue,chi,664,2341
+Dynamic Queue,baseline,798,4405
+Binary Tree Depth,zimmerman,449,930
+Averager,baseline,207,240
+Dynamic Queue,chi,7,3529
+Averager,chi,99,618
+Dynamic Queue,zimmerman,242,2462
+Complex Numbers,zimmerman,358,3920
+Complex Numbers,baseline,688,3062
+Dynamic Queue,chi,360,3536
+Dynamic Queue,chi,8,9460
+Complex Numbers,chi,115,958
+Dynamic Queue,zimmerman,405,3243
+Dynamic Queue,chi,809,3595
+Dynamic Queue,baseline,416,5600
+Averager,chi,62,1325
+Binary Tree Depth,baseline,416,1143
+Binary Tree Depth,zimmerman,299,1713
+Complex Numbers,chi,90,3172
+Complex Numbers,zimmerman,586,4240
+Binary Tree Depth,chi,414,1717
+Averager,baseline,178,338
+Averager,chi,202,268
+Dynamic Queue,chi,383,7304
+Binary Tree Depth,chi,809,954
+Dynamic Queue,baseline,729,5353
+Dynamic Queue,zimmerman,189,7645
+Dynamic Queue,chi,682,3788
+Dynamic Queue,baseline,740,8580
+Complex Numbers,zimmerman,327,2501
+Dynamic Queue,zimmerman,511,5179
+Set Product,zimmerman,443,287
+Binary Tree Depth,baseline,684,994
+Dynamic Queue,baseline,239,2477
+Averager,chi,255,60
+Set Product,zimmerman,446,629
+Complex Numbers,zimmerman,23,1649
+Binary Tree Depth,baseline,587,1049
+Dynamic Queue,zimmerman,233,4828
+Dynamic Queue,chi,205,3379
+All permutations,baseline,54,5570
+Dynamic Queue,zimmerman,182,677
+Complex Numbers,baseline,717,29
+Complex Numbers,baseline,474,5045
+Binary Tree Depth,zimmerman,511,1455
+Averager,chi,754,1084
+Complex Numbers,baseline,730,1499
+Binary Tree Depth,baseline,239,1380
+Complex Numbers,zimmerman,119,4392
+Binary Tree Depth,zimmerman,201,120
+Complex Numbers,baseline,178,2120
+Dynamic Queue,baseline,685,3066
+Averager,zimmerman,179,426
+Dynamic Queue,baseline,808,3023
+Averager,zimmerman,166,519
+Binary Tree Depth,baseline,808,2166
+Dynamic Queue,chi,217,5981
+Complex Numbers,chi,562,6281
+Complex Numbers,chi,778,2320
+Averager,zimmerman,327,708
+Dynamic Queue,baseline,610,3667
+Dynamic Queue,baseline,31,2544
+Averager,zimmerman,586,1778
+Averager,baseline,688,638
+Dynamic Queue,zimmerman,584,7454
+Dynamic Queue,baseline,634,3480
+Dynamic Queue,baseline,796,1752
+Binary Tree Depth,baseline,634,1030
+Averager,baseline,484,593
+Averager,baseline,384,60
+Dynamic Queue,baseline,684,4501
+Averager,baseline,450,728
+Dynamic Queue,chi,618,1364
+Averager,zimmerman,23,49
+Averager,zimmerman,601,562
+Averager,chi,602,3063
+Averager,baseline,594,1290
+Averager,chi,115,656
+Dynamic Queue,zimmerman,811,4191
+Complex Numbers,baseline,484,3212
+Dynamic Queue,chi,715,3589
+Dynamic Queue,baseline,41,2083
+Complex Numbers,chi,423,3271
+Averager,chi,423,450
+Dynamic Queue,zimmerman,429,3071
+Complex Numbers,baseline,109,2926
+Binary Tree Depth,chi,217,1082
+Binary Tree Depth,chi,580,990
+Set Product,baseline,679,3996
+Binary Tree Depth,chi,383,2729
+Binary Tree Depth,zimmerman,486,2122
+Binary Tree Depth,zimmerman,479,1746
+Complex Numbers,baseline,518,5084
+Averager,baseline,721,436
+Dynamic Queue,baseline,50,1676
+Averager,zimmerman,549,180
+Binary Tree Depth,chi,428,1334
+Binary Tree Depth,baseline,792,90
+Dynamic Queue,baseline,185,3780
+Dynamic Queue,zimmerman,786,2010
+Binary Tree Depth,baseline,50,662
+Dynamic Queue,zimmerman,759,5078
+Binary Tree Depth,chi,7,895
+Dynamic Queue,zimmerman,14,2361
+Binary Tree Depth,zimmerman,793,954
+Averager,chi,566,650
+Complex Numbers,chi,404,981
+Complex Numbers,baseline,721,2003
+Dynamic Queue,zimmerman,292,10
+Complex Numbers,baseline,222,4948
+Dynamic Queue,zimmerman,66,5223
+Binary Tree Depth,zimmerman,405,743
+Binary Tree Depth,zimmerman,456,1440
+Binary Tree Depth,zimmerman,786,630
+Complex Numbers,baseline,136,2079
+Dynamic Queue,chi,428,1096
+Averager,chi,550,1206
+Binary Tree Depth,zimmerman,292,1471
+Binary Tree Depth,chi,715,1862
+Dynamic Queue,chi,58,1796
+Binary Tree Depth,chi,58,485
+Binary Tree Depth,chi,618,1146
+Binary Tree Depth,baseline,798,2037
+All permutations,zimmerman,249,1940
+Dynamic Queue,chi,621,6199
+Dynamic Queue,zimmerman,553,1661
+Set Product,chi,748,4046
+Complex Numbers,chi,560,5377
+Complex Numbers,chi,183,2091
+Averager,chi,778,521
+Complex Numbers,zimmerman,601,740
+Dynamic Queue,zimmerman,456,3182
+Binary Tree Depth,baseline,648,1558
+Dynamic Queue,zimmerman,129,4509
+Binary Tree Depth,zimmerman,14,1160
+Dynamic Queue,baseline,587,2692
+Dynamic Queue,chi,807,6095
+Complex Numbers,zimmerman,607,3576
+Binary Tree Depth,zimmerman,759,1202
+Dynamic Queue,baseline,686,842
+Dynamic Queue,chi,667,6261
+All permutations,zimmerman,293,1482
+Dynamic Queue,zimmerman,793,4932
+Averager,chi,257,617
+Dynamic Queue,zimmerman,755,2997
+Averager,zimmerman,82,1016
+Binary Tree Depth,zimmerman,423,1503
+Binary Tree Depth,baseline,185,1898
+Dynamic Queue,baseline,522,3350
+Averager,chi,560,793
+Complex Numbers,baseline,312,3434
+Averager,baseline,109,639
+Binary Tree Depth,chi,807,502
+Dynamic Queue,zimmerman,479,7396
+Binary Tree Depth,zimmerman,500,433
+Complex Numbers,chi,711,2478
+Dynamic Queue,zimmerman,639,3920
+Averager,zimmerman,607,570
+Binary Tree Depth,zimmerman,584,2063
+Averager,chi,56,2593
+Averager,baseline,556,1039
+Averager,zimmerman,308,690
+Binary Tree Depth,baseline,670,391
+Binary Tree Depth,zimmerman,129,1306
+Averager,baseline,136,211
+Dynamic Queue,zimmerman,299,148
+Complex Numbers,zimmerman,82,4420
+Dynamic Queue,zimmerman,366,2752
+Binary Tree Depth,zimmerman,662,1239
+Averager,baseline,730,720
+Complex Numbers,zimmerman,308,4867
+Binary Tree Depth,zimmerman,755,719
+Binary Tree Depth,chi,360,170
+Binary Tree Depth,chi,551,1675
+Dynamic Queue,zimmerman,500,1964
+Binary Tree Depth,chi,340,330
+Complex Numbers,baseline,231,3480
+Binary Tree Depth,zimmerman,294,946
+Binary Tree Depth,zimmerman,137,1672
+Complex Numbers,chi,257,4202
+Binary Tree Depth,baseline,188,4025
+Binary Tree Depth,baseline,171,417
+Dynamic Queue,zimmerman,486,3426
+Averager,baseline,485,179
+Complex Numbers,chi,708,345
+Dynamic Queue,zimmerman,279,3960
+Complex Numbers,zimmerman,692,10
+Binary Tree Depth,chi,117,3112
+Dynamic Queue,chi,335,770
+Dynamic Queue,chi,340,1952
+Dynamic Queue,zimmerman,662,7873
+Dynamic Queue,zimmerman,294,598
+Dynamic Queue,baseline,770,4518
+Binary Tree Depth,zimmerman,279,5096
+Binary Tree Depth,baseline,495,928
+Dynamic Queue,baseline,696,5636
+Binary Tree Depth,baseline,262,630
+Dynamic Queue,zimmerman,370,1903
+Binary Tree Depth,baseline,767,7041
+Dynamic Queue,zimmerman,391,5885
+Binary Tree Depth,chi,667,2847
+Dynamic Queue,baseline,188,3648
+Complex Numbers,zimmerman,42,1101
+Dynamic Queue,zimmerman,557,120
+Dynamic Queue,baseline,262,5194
+Complex Numbers,baseline,51,9375
+Binary Tree Depth,zimmerman,240,903
+Binary Tree Depth,zimmerman,565,1295
+Dynamic Queue,chi,311,3410
+Binary Tree Depth,chi,77,2404
+Binary Tree Depth,zimmerman,111,279
+Binary Tree Depth,baseline,692,499
+Binary Tree Depth,zimmerman,557,2422
+Dynamic Queue,zimmerman,494,3195
+Binary Tree Depth,chi,442,1828
+Binary Tree Depth,zimmerman,693,1337
+Binary Tree Depth,baseline,685,1477
+Binary Tree Depth,chi,561,1230
+Dynamic Queue,zimmerman,565,2120
+Averager,baseline,518,1065
+Averager,baseline,118,853
+Dynamic Queue,baseline,113,1035
+Dynamic Queue,zimmerman,80,4767
+Dynamic Queue,chi,77,5461
+Averager,zimmerman,615,206
+Complex Numbers,baseline,22,100
+Binary Tree Depth,chi,744,2528
+Binary Tree Depth,zimmerman,366,1031
+All permutations,chi,748,3599
+Set Product,zimmerman,36,613
+Averager,baseline,529,1344
+Binary Tree Depth,zimmerman,66,1927
+Dynamic Queue,zimmerman,111,1597
+Averager,baseline,312,742
+Binary Tree Depth,chi,658,2517
+Dynamic Queue,zimmerman,693,4583
+Dynamic Queue,chi,143,7471
+Binary Tree Depth,baseline,36,958
+Dynamic Queue,zimmerman,61,4771
+Binary Tree Depth,chi,311,1376
+Binary Tree Depth,chi,86,1542
+Binary Tree Depth,chi,143,1650
+Dynamic Queue,chi,442,5027
+Dynamic Queue,chi,633,6056
+Dynamic Queue,baseline,36,6165
+Dynamic Queue,chi,561,4236
+Dynamic Queue,zimmerman,305,5634
+Binary Tree Depth,chi,489,2828
+Binary Tree Depth,zimmerman,186,1572
+Averager,zimmerman,36,588
+Binary Tree Depth,zimmerman,305,29
+Dynamic Queue,chi,649,2978
+Averager,baseline,51,2205
+Binary Tree Depth,zimmerman,391,1357
+Dynamic Queue,baseline,277,2194
+Dynamic Queue,zimmerman,361,6842
+Dynamic Queue,chi,117,5499
+Dynamic Queue,zimmerman,284,3227
+Binary Tree Depth,zimmerman,445,1944
+Averager,zimmerman,764,1049
+Dynamic Queue,zimmerman,449,2710
+Dynamic Queue,baseline,495,2803
+Binary Tree Depth,baseline,224,2443
+Averager,zimmerman,420,511
+Dynamic Queue,zimmerman,186,2378
+Dynamic Queue,zimmerman,371,8671
+Complex Numbers,chi,253,4741
+All permutations,zimmerman,36,254
+Binary Tree Depth,baseline,770,1436
+Complex Numbers,zimmerman,420,2343
+Complex Numbers,zimmerman,687,5529
+Binary Tree Depth,zimmerman,61,671
+Binary Tree Depth,zimmerman,233,2018
+Averager,baseline,222,999
+Dynamic Queue,zimmerman,725,3934
+Binary Tree Depth,chi,605,97
+Averager,zimmerman,801,1809
+Dynamic Queue,baseline,539,3413
+Binary Tree Depth,baseline,758,669
+Dynamic Queue,baseline,758,4509
+Binary Tree Depth,chi,649,921
+Complex Numbers,baseline,309,1142
+Complex Numbers,baseline,713,2643
+Complex Numbers,zimmerman,801,4804
+All permutations,zimmerman,665,4880
+Dynamic Queue,chi,489,2414
+Dynamic Queue,zimmerman,445,2600
+Binary Tree Depth,zimmerman,289,397
+Averager,baseline,27,981
+Binary Tree Depth,chi,335,647
+Dynamic Queue,zimmerman,304,3933
+Binary Tree Depth,baseline,696,179
+Averager,zimmerman,687,1289
+Binary Tree Depth,zimmerman,681,1198
+Dynamic Queue,zimmerman,137,4235
+Dynamic Queue,zimmerman,745,1716
+Complex Numbers,zimmerman,764,3322
+Binary Tree Depth,zimmerman,284,807
+Dynamic Queue,zimmerman,4,3354
+Dynamic Queue,zimmerman,681,4651
+Binary Tree Depth,baseline,276,1682
+Complex Numbers,baseline,795,4206
+Complex Numbers,chi,190,3268
+Dynamic Queue,chi,187,5239
+Dynamic Queue,zimmerman,270,4262
+Complex Numbers,zimmerman,472,11793
+Complex Numbers,chi,766,860
+Averager,baseline,795,393
+Dynamic Queue,baseline,670,2560
+Averager,zimmerman,785,1219
+Binary Tree Depth,zimmerman,202,1210
+Binary Tree Depth,zimmerman,379,784
+Averager,chi,700,1232
+Binary Tree Depth,zimmerman,144,64
+Dynamic Queue,zimmerman,379,2689
+Averager,baseline,474,1790
+Complex Numbers,chi,588,3327
+Averager,baseline,713,739
+Binary Tree Depth,baseline,590,435
+Binary Tree Depth,zimmerman,304,590
+Dynamic Queue,chi,744,7578
+Binary Tree Depth,chi,205,1953
+Dynamic Queue,baseline,467,3272
+Dynamic Queue,chi,537,445
+Binary Tree Depth,zimmerman,371,1348
+Dynamic Queue,zimmerman,202,3165
+All permutations,chi,550,392
+Binary Tree Depth,chi,187,791
+Binary Tree Depth,baseline,339,85
+Averager,baseline,34,943
+Complex Numbers,chi,461,3217
+Complex Numbers,baseline,268,205
+Dynamic Queue,baseline,63,3588
+Dynamic Queue,zimmerman,73,2822
+Averager,chi,190,1009
+Averager,chi,588,694
+Dynamic Queue,chi,385,2813
+Binary Tree Depth,chi,633,4382
+Averager,baseline,268,221
+Binary Tree Depth,chi,411,1635
+Dynamic Queue,zimmerman,464,3840
+Binary Tree Depth,chi,385,600
+Binary Tree Depth,baseline,63,906
+Averager,zimmerman,747,732
+Averager,chi,253,731
+Dynamic Queue,chi,173,5057
+Averager,chi,461,814
+Dynamic Queue,baseline,460,3943
+Dynamic Queue,baseline,339,4084
+Dynamic Queue,baseline,297,9883
+Complex Numbers,zimmerman,567,7832
+Dynamic Queue,chi,580,5989
+Binary Tree Depth,chi,398,625
+Dynamic Queue,baseline,632,3114
+Complex Numbers,chi,368,1911
+Dynamic Queue,chi,86,5355
+Dynamic Queue,baseline,152,523
+Dynamic Queue,zimmerman,656,4784
+Complex Numbers,chi,471,4801
+Dynamic Queue,chi,411,3991
+Complex Numbers,zimmerman,227,612
+Complex Numbers,zimmerman,531,4849
+Averager,chi,368,765
+Complex Numbers,zimmerman,298,7180
+Dynamic Queue,zimmerman,94,7014
+Dynamic Queue,chi,769,4555
+Complex Numbers,zimmerman,789,3669
+Dynamic Queue,zimmerman,364,3270
+All permutations,zimmerman,446,133
+Complex Numbers,baseline,594,4458
+Binary Tree Depth,zimmerman,364,1019
+Complex Numbers,chi,255,2370
+Averager,zimmerman,315,2039
+Binary Tree Depth,baseline,751,2300
+Binary Tree Depth,zimmerman,464,2003
+Complex Numbers,baseline,70,1541
+Complex Numbers,zimmerman,381,3597
+Dynamic Queue,chi,427,601
+Dynamic Queue,baseline,777,2869
+Dynamic Queue,baseline,654,4175
+Averager,zimmerman,358,1045
+Binary Tree Depth,baseline,771,1170
+Averager,baseline,309,1362
+Complex Numbers,chi,631,9515
+Dynamic Queue,baseline,760,5411
+Dynamic Queue,baseline,652,4061
+Binary Tree Depth,chi,682,2559
+Complex Numbers,zimmerman,710,4438
+Averager,chi,395,1026
+Complex Numbers,chi,676,4623
+Set Product,baseline,510,297
+Binary Tree Depth,baseline,689,477
+Dynamic Queue,chi,92,6208
+Dynamic Queue,zimmerman,144,5899
+Averager,chi,0,845
+Complex Numbers,zimmerman,431,407
+Complex Numbers,chi,0,2668
+Dynamic Queue,baseline,174,2455
+Dynamic Queue,baseline,547,367
+Complex Numbers,chi,235,6059
+Dynamic Queue,chi,698,1254
+Dynamic Queue,zimmerman,734,3544
+Dynamic Queue,baseline,153,837
+Binary Tree Depth,chi,694,3181
+Binary Tree Depth,chi,705,691
+Binary Tree Depth,baseline,547,30
+Dynamic Queue,chi,433,5696
+Averager,chi,164,2371
+All permutations,baseline,510,230
+Complex Numbers,zimmerman,447,1217
+Complex Numbers,chi,169,3150
+Averager,chi,774,1536
+Dynamic Queue,baseline,739,4366
+Averager,zimmerman,381,709
+Dynamic Queue,chi,328,2595
+Averager,baseline,22,285
+Dynamic Queue,chi,93,3959
+Averager,chi,676,783
+Dynamic Queue,zimmerman,516,2970
+Averager,zimmerman,373,1044
+Binary Tree Depth,chi,93,732
+Complex Numbers,baseline,19,317
+Binary Tree Depth,baseline,463,258
+Binary Tree Depth,baseline,221,1507
+Complex Numbers,baseline,104,2881
+Averager,zimmerman,710,1164
+Dynamic Queue,baseline,454,4036
+Averager,zimmerman,209,740
+Complex Numbers,zimmerman,209,3363
+Dynamic Queue,zimmerman,498,4696
+Binary Tree Depth,chi,698,119
+Binary Tree Depth,zimmerman,734,1101
+Complex Numbers,chi,575,1660
+Binary Tree Depth,zimmerman,0,1493
+Binary Tree Depth,chi,433,2382
+Averager,zimmerman,431,1773
+Complex Numbers,chi,563,599
+Dynamic Queue,zimmerman,538,2563
+Dynamic Queue,zimmerman,673,1585
+Averager,baseline,104,707
+Dynamic Queue,zimmerman,0,3004
+Dynamic Queue,chi,694,6521
+Binary Tree Depth,chi,769,748
+Binary Tree Depth,baseline,652,3453
+Dynamic Queue,baseline,689,1129
+Averager,chi,169,384
+Complex Numbers,chi,603,3205
+Dynamic Queue,baseline,176,3092
+Dynamic Queue,chi,175,796
+Binary Tree Depth,zimmerman,516,866
+Binary Tree Depth,chi,537,124
+Averager,chi,216,940
+Complex Numbers,baseline,545,3654
+Complex Numbers,chi,395,3045
+Binary Tree Depth,zimmerman,270,1468
+Complex Numbers,baseline,548,2869
+Complex Numbers,baseline,680,2375
+Dynamic Queue,chi,705,819
+Averager,chi,471,897
+Complex Numbers,zimmerman,373,4327
+Averager,chi,748,986
+Dynamic Queue,chi,74,387
+Complex Numbers,chi,783,321
+Complex Numbers,zimmerman,249,2674
+Averager,chi,183,1205
+Averager,baseline,545,498
+Binary Tree Depth,zimmerman,530,623
+Dynamic Queue,chi,625,4452
+Binary Tree Depth,zimmerman,213,1961
+Averager,baseline,230,2120
+Binary Tree Depth,chi,175,295
+Binary Tree Depth,zimmerman,644,2795
+Dynamic Queue,chi,396,5593
+Complex Numbers,chi,697,148
+Averager,chi,603,660
+Binary Tree Depth,baseline,176,737
+Complex Numbers,chi,47,6226
+Averager,zimmerman,160,243
+Binary Tree Depth,zimmerman,94,2965
+Binary Tree Depth,zimmerman,498,900
+Dynamic Queue,baseline,800,2894
+Dynamic Queue,chi,438,2508
+Complex Numbers,zimmerman,160,6751
+Binary Tree Depth,chi,243,1098
+Complex Numbers,zimmerman,480,2844
+Dynamic Queue,chi,613,3852
+Complex Numbers,zimmerman,181,5038
+Complex Numbers,baseline,287,335
+Averager,baseline,680,600
+Dynamic Queue,baseline,690,760
+Complex Numbers,chi,616,4554
+Averager,zimmerman,480,815
+Dynamic Queue,zimmerman,609,1242
+Binary Tree Depth,baseline,153,350
+Binary Tree Depth,baseline,150,305
+Complex Numbers,baseline,380,2530
+Complex Numbers,chi,491,150
+Dynamic Queue,zimmerman,24,5078
+Binary Tree Depth,zimmerman,80,1262
+Dynamic Queue,zimmerman,325,984
+Complex Numbers,baseline,735,1816
+Binary Tree Depth,zimmerman,725,1433
+Binary Tree Depth,chi,625,2015
+Averager,zimmerman,789,572
+Complex Numbers,zimmerman,320,4327
+Complex Numbers,baseline,344,1386
+Complex Numbers,chi,619,3562
+Binary Tree Depth,chi,396,159
+Averager,baseline,10,913
+Binary Tree Depth,zimmerman,609,3337
+Binary Tree Depth,baseline,654,990
+Complex Numbers,zimmerman,241,88
+Binary Tree Depth,chi,613,735
+Averager,baseline,731,736
+Averager,baseline,70,129
+Complex Numbers,baseline,230,4118
+Complex Numbers,baseline,49,9533
+Averager,chi,631,345
+Complex Numbers,zimmerman,785,4463
+Complex Numbers,zimmerman,743,509
+Binary Tree Depth,chi,74,200
+Binary Tree Depth,baseline,739,1175
+Circular Linked List,baseline,416,6334
+Circular Linked List,zimmerman,753,1338
+Dynamic Queue,baseline,134,5580
+Circular Linked List,zimmerman,553,117
+Complex Numbers,zimmerman,451,2696
+Dynamic Queue,baseline,204,750
+Binary Tree Depth,baseline,134,970
+Set Product,baseline,597,4204
+Complex Numbers,zimmerman,436,154
+Dynamic Queue,chi,677,6215
+Dynamic Queue,zimmerman,592,585
+Dynamic Queue,chi,680,3192
+Averager,baseline,548,805
+Dynamic Queue,chi,322,30
+Binary Tree Depth,zimmerman,592,180
+Sorted List,baseline,162,1378
+Averager,baseline,679,160
+Averager,baseline,49,549
+Dynamic Queue,zimmerman,683,1154
+Complex Numbers,zimmerman,409,3472
+Averager,chi,47,1321
+Binary Tree Depth,baseline,589,1230
+Binary Tree Depth,zimmerman,508,391
+Averager,zimmerman,298,722
+Averager,chi,570,1218
+Complex Numbers,chi,441,618
+Averager,zimmerman,568,987
+Complex Numbers,chi,319,1078
+Circular Linked List,zimmerman,278,3795
+Circular Linked List,chi,414,2315
+Binary Tree Depth,zimmerman,630,368
+Sorted List,chi,414,2006
+Complex Numbers,zimmerman,393,2774
+Dynamic Queue,chi,576,4280
+Complex Numbers,chi,570,5519
+Binary Tree Depth,baseline,800,540
+Complex Numbers,zimmerman,78,4574
+Circular Linked List,baseline,808,4877
+Circular Linked List,baseline,219,4801
+Dynamic Queue,baseline,459,5462
+Circular Linked List,baseline,162,1639
+Binary Tree Depth,baseline,97,87
+Binary Tree Depth,zimmerman,24,989
+Complex Numbers,zimmerman,657,1789
+Dynamic Queue,zimmerman,530,2730
+Circular Linked List,zimmerman,405,4167
+Complex Numbers,zimmerman,614,3721
+Averager,zimmerman,393,577
+Dynamic Queue,zimmerman,177,1198
+Binary Tree Depth,baseline,777,1528
+Binary Tree Depth,zimmerman,291,243
+Circular Linked List,chi,271,3210
+Binary Tree Depth,chi,576,1290
+Complex Numbers,chi,164,4252
+Circular Linked List,chi,340,2448
+Averager,baseline,735,996
+Binary Tree Depth,zimmerman,656,275
+Circular Linked List,baseline,150,2688
+Circular Linked List,baseline,758,2513
+Averager,zimmerman,523,750
+Complex Numbers,baseline,251,3542
+Circular Linked List,zimmerman,45,2137
+Complex Numbers,zimmerman,283,523
+Averager,baseline,321,390
+Circular Linked List,zimmerman,0,5041
+Averager,baseline,647,1162
+Averager,zimmerman,320,365
+Averager,chi,572,351
+Binary Tree Depth,baseline,722,1017
+Complex Numbers,zimmerman,523,3204
+Averager,baseline,380,324
+Complex Numbers,baseline,321,3719
+Averager,baseline,123,212
+Binary Tree Depth,baseline,760,445
+Averager,chi,441,118
+Averager,baseline,260,634
+Averager,chi,616,594
+Averager,baseline,263,604
+Averager,chi,44,285
+Averager,zimmerman,614,557
+Averager,zimmerman,655,269
+Complex Numbers,baseline,260,827
+Binary Tree Depth,chi,92,1739
+Averager,zimmerman,567,2043
+Averager,zimmerman,409,750
+Averager,chi,620,60
+Complex Numbers,zimmerman,76,3771
+Complex Numbers,chi,413,1624
+Averager,chi,481,990
+Complex Numbers,chi,620,41
+Complex Numbers,chi,602,6632
+Sorted List,zimmerman,0,1873
+Dynamic Queue,baseline,224,4825
+Dynamic Queue,chi,27,4481
+Averager,zimmerman,440,940
+Complex Numbers,chi,154,209
+Dynamic Queue,chi,252,561
+Complex Numbers,baseline,647,4987
+Circular Linked List,chi,515,90
+Averager,chi,235,1303
+Binary Tree Depth,chi,173,2982
+Sorted List,baseline,226,661
+Binary Tree Depth,zimmerman,275,2985
+Averager,zimmerman,76,1243
+Sorted List,baseline,219,2088
+Complex Numbers,zimmerman,466,3623
+Binary Tree Depth,baseline,467,1037
+Circular Linked List,chi,428,1872
+Dynamic Queue,chi,125,6492
+Complex Numbers,chi,600,4558
+Complex Numbers,zimmerman,502,986
+Complex Numbers,baseline,490,23
+Averager,zimmerman,343,1257
+Averager,chi,728,998
+Averager,chi,600,1042
+Dynamic Queue,zimmerman,146,74
+Binary Tree Depth,baseline,432,1787
+Complex Numbers,chi,748,3991
+Complex Numbers,chi,397,1328
+Complex Numbers,chi,392,222
+Complex Numbers,zimmerman,718,1327
+Complex Numbers,zimmerman,440,3113
+Complex Numbers,zimmerman,282,1291
+Averager,zimmerman,472,2204
+Dynamic Queue,baseline,590,2150
+Averager,zimmerman,447,519
+Circular Linked List,zimmerman,371,7643
+Binary Tree Depth,baseline,459,625
+Averager,chi,562,651
+Complex Numbers,zimmerman,604,5201
+Sorted List,baseline,758,150
+Dynamic Queue,chi,142,8116
+Averager,baseline,251,798
+Dynamic Queue,chi,234,1132
+Averager,zimmerman,249,879
+Averager,chi,397,949
+Dynamic Queue,chi,220,834
+Binary Tree Depth,zimmerman,133,175
+Averager,zimmerman,451,564
+Averager,chi,392,1810
+Dynamic Queue,zimmerman,275,4165
+Circular Linked List,baseline,722,2986
+Dynamic Queue,zimmerman,213,3681
+Binary Tree Depth,zimmerman,146,78
+Averager,baseline,506,712
+Averager,zimmerman,283,2656
+Averager,zimmerman,499,195
+Dynamic Queue,baseline,589,2518
+Sorted List,baseline,150,2094
+Averager,zimmerman,282,111
+Averager,zimmerman,502,697
+Complex Numbers,zimmerman,779,277
+Dynamic Queue,baseline,432,2359
+Averager,zimmerman,382,1005
+Dynamic Queue,zimmerman,630,3792
+Sorted List,baseline,798,2204
+Dynamic Queue,baseline,542,2882
+Binary Tree Depth,chi,234,786
+Complex Numbers,zimmerman,497,2160
+Dynamic Queue,baseline,362,600
+Averager,zimmerman,168,1543
+Dynamic Queue,zimmerman,560,4386
+Averager,chi,319,124
+Circular Linked List,zimmerman,128,943
+Circular Linked List,zimmerman,565,2013
+All permutations,chi,254,2787
+Dynamic Queue,chi,707,3943
+Binary Tree Depth,chi,27,3703
+Dynamic Queue,chi,207,3923
+Binary Tree Depth,baseline,179,680
+Sorted List,zimmerman,405,1636
+Sorted List,zimmerman,444,1168
+Binary Tree Depth,chi,244,840
+Sorted List,zimmerman,565,1132
+Circular Linked List,chi,658,6971
+Dynamic Queue,baseline,179,2510
+Binary Tree Depth,baseline,542,627
+Sorted List,chi,430,2973
+Averager,chi,403,914
+Sorted List,baseline,729,2895
+Circular Linked List,zimmerman,444,737
+Complex Numbers,zimmerman,343,3927
+Binary Tree Depth,chi,52,2953
+Circular Linked List,baseline,343,503
+Circular Linked List,chi,88,226
+Sorted List,chi,88,107
+Averager,baseline,788,2282
+Dynamic Queue,zimmerman,453,2504
+Dynamic Queue,baseline,771,5764
+Complex Numbers,zimmerman,168,976
+Binary Tree Depth,chi,543,2874
+Complex Numbers,chi,540,1440
+Binary Tree Depth,chi,301,1559
+Circular Linked List,chi,430,4530
+Dynamic Queue,chi,19,989
+Complex Numbers,chi,403,3074
+Circular Linked List,zimmerman,304,5903
+Dynamic Queue,chi,244,2910
+Complex Numbers,chi,417,598
+Dynamic Queue,chi,109,3340
+Circular Linked List,zimmerman,367,2695
+Binary Tree Depth,zimmerman,560,3012
+Binary Tree Depth,chi,203,2285
+Set Product,baseline,274,636
+Binary Tree Depth,baseline,308,30
+Circular Linked List,baseline,798,3474
+Dynamic Queue,chi,52,5923
+Binary Tree Depth,baseline,768,793
+Circular Linked List,zimmerman,811,3520
+Complex Numbers,baseline,112,4500
+Dynamic Queue,chi,659,228
+Binary Tree Depth,chi,659,656
+Binary Tree Depth,baseline,343,1721
+Dynamic Queue,chi,402,2688
+Dynamic Queue,zimmerman,389,4401
+Circular Linked List,zimmerman,24,2598
+Sorted List,zimmerman,278,2287
+Dynamic Queue,zimmerman,810,5232
+Dynamic Queue,chi,551,2098
+Binary Tree Depth,baseline,695,1761
+Sorted List,zimmerman,240,3337
+Binary Tree Depth,zimmerman,699,178
+Binary Tree Depth,baseline,704,10
+Binary Tree Depth,chi,207,1314
+Circular Linked List,baseline,670,1461
+Circular Linked List,baseline,459,4633
+Binary Tree Depth,chi,321,1005
+Sorted List,zimmerman,120,1661
+Circular Linked List,baseline,218,3915
+Dynamic Queue,baseline,503,1483
+Dynamic Queue,baseline,446,685
+Binary Tree Depth,zimmerman,11,1514
+Binary Tree Depth,zimmerman,784,1138
+Sorted List,baseline,126,2174
+Binary Tree Depth,baseline,503,939
+Binary Tree Depth,chi,109,1049
+Sorted List,zimmerman,526,1393
+Circular Linked List,zimmerman,745,90
+Sorted List,chi,302,180
+Sorted List,zimmerman,669,2070
+Circular Linked List,chi,2,959
+Sorted List,chi,809,1858
+Binary Tree Depth,zimmerman,389,2196
+Sorted List,baseline,749,1963
+Binary Tree Depth,chi,402,1257
+Circular Linked List,zimmerman,644,6754
+Binary Tree Depth,baseline,536,209
+Circular Linked List,zimmerman,120,1989
+Binary Tree Depth,chi,231,1515
+Dynamic Queue,zimmerman,754,3808
+Circular Linked List,baseline,126,3781
+Binary Tree Depth,baseline,742,1138
+Averager,baseline,112,840
+Sorted List,baseline,412,1977
+Circular Linked List,zimmerman,669,2986
+Circular Linked List,chi,335,1863
+Circular Linked List,chi,809,4501
+Circular Linked List,baseline,412,1813
+Binary Tree Depth,baseline,181,2091
+Dynamic Queue,chi,312,3559
+Circular Linked List,chi,537,239
+Binary Tree Depth,baseline,610,1080
+Circular Linked List,zimmerman,61,3636
+Dynamic Queue,baseline,742,3254
+Dynamic Queue,zimmerman,699,287
+Dynamic Queue,baseline,358,4904
+Dynamic Queue,zimmerman,404,939
+Dynamic Queue,chi,450,4101
+Circular Linked List,baseline,507,1636
+Dynamic Queue,baseline,695,2234
+Circular Linked List,baseline,719,1889
+Binary Tree Depth,baseline,358,846
+Complex Numbers,baseline,54,7148
+Sorted List,chi,271,1572
+Circular Linked List,baseline,740,252
+Averager,chi,622,817
+Circular Linked List,zimmerman,784,100
+Circular Linked List,baseline,41,346
+Circular Linked List,zimmerman,366,726
+Circular Linked List,baseline,245,69
+Sorted List,baseline,507,242
+Dynamic Queue,baseline,166,3786
+Dynamic Queue,baseline,687,3713
+Binary Tree Depth,chi,707,1740
+Complex Numbers,baseline,65,2380
+Sorted List,zimmerman,73,2009
+Circular Linked List,baseline,767,10016
+Circular Linked List,chi,8,6844
+Dynamic Queue,chi,222,5721
+Circular Linked List,baseline,749,2851
+Circular Linked List,zimmerman,270,214
+Sorted List,zimmerman,361,2970
+Sorted List,baseline,740,202
+Dynamic Queue,chi,679,3941
+Binary Tree Depth,zimmerman,716,150
+Sorted List,baseline,41,118
+Circular Linked List,zimmerman,391,5694
+Sorted List,zimmerman,367,1470
+Complex Numbers,baseline,788,1735
+Sorted List,baseline,218,1179
+Sorted List,zimmerman,108,90
+Binary Tree Depth,chi,450,1356
+Dynamic Queue,zimmerman,804,6531
+Circular Linked List,zimmerman,35,7966
+Circular Linked List,zimmerman,571,1626
+Circular Linked List,zimmerman,108,365
+Circular Linked List,baseline,503,3713
+Binary Tree Depth,zimmerman,62,2664
+Sorted List,zimmerman,371,4856
+Sorted List,zimmerman,35,4196
+Dynamic Queue,baseline,536,5598
+Averager,baseline,65,240
+Binary Tree Depth,baseline,166,2042
+Circular Linked List,zimmerman,786,1831
+Binary Tree Depth,chi,312,814
+Circular Linked List,zimmerman,292,4030
+Set Product,baseline,192,1274
+Circular Linked List,zimmerman,584,253
+Circular Linked List,chi,422,2598
+Dynamic Queue,chi,161,5220
+Dynamic Queue,chi,212,3590
+Dynamic Queue,zimmerman,588,2942
+Sorted List,chi,537,434
+Binary Tree Depth,chi,161,3917
+Dynamic Queue,zimmerman,172,317
+Binary Tree Depth,baseline,431,77
+Binary Tree Depth,zimmerman,172,149
+Circular Linked List,baseline,375,2821
+Sorted List,chi,422,605
+Circular Linked List,baseline,185,3348
+Circular Linked List,zimmerman,189,6345
+Binary Tree Depth,baseline,687,1276
+Circular Linked List,zimmerman,233,2013
+Binary Tree Depth,zimmerman,622,1129
+Dynamic Queue,chi,118,4332
+Circular Linked List,zimmerman,449,1608
+Sorted List,zimmerman,449,866
+Dynamic Queue,zimmerman,62,4151
+Averager,baseline,125,796
+Circular Linked List,chi,618,1598
+Sorted List,chi,7,2440
+Binary Tree Depth,zimmerman,429,270
+Sorted List,zimmerman,811,2620
+Circular Linked List,chi,383,2869
+Binary Tree Depth,zimmerman,350,236
+Sorted List,chi,428,1631
+Dynamic Queue,chi,301,3512
+Sorted List,baseline,375,171
+Circular Linked List,zimmerman,465,780
+Dynamic Queue,chi,691,5286
+Sorted List,zimmerman,786,1216
+Circular Linked List,chi,7,3235
+Circular Linked List,zimmerman,429,328
+Dynamic Queue,zimmerman,99,3024
+Set Product,zimmerman,773,449
+Complex Numbers,chi,254,5049
+Binary Tree Depth,zimmerman,465,1407
+Binary Tree Depth,zimmerman,99,1788
+Complex Numbers,zimmerman,726,5479
+Circular Linked List,baseline,467,2000
+Dynamic Queue,zimmerman,622,25
+Circular Linked List,zimmerman,129,3020
+Circular Linked List,baseline,224,3874
+Circular Linked List,baseline,729,2693
+Circular Linked List,baseline,648,3613
+Circular Linked List,chi,205,2926
+Dynamic Queue,zimmerman,550,1503
+Circular Linked List,baseline,463,1239
+Sorted List,zimmerman,242,1412
+Circular Linked List,zimmerman,202,2199
+Circular Linked List,zimmerman,759,8232
+Sorted List,baseline,416,2440
+Sorted List,baseline,463,357
+Circular Linked List,zimmerman,511,5758
+Circular Linked List,baseline,770,4229
+Averager,baseline,54,1578
+Dynamic Queue,zimmerman,778,3774
+Complex Numbers,baseline,608,1321
+Circular Linked List,baseline,307,60
+Circular Linked List,zimmerman,486,3612
+Circular Linked List,baseline,742,2023
+Binary Tree Depth,zimmerman,588,1471
+Binary Tree Depth,zimmerman,215,1418
+Set Product,zimmerman,794,30
+Dynamic Queue,baseline,393,2931
+Binary Tree Depth,chi,680,951
+Averager,zimmerman,726,916
+Binary Tree Depth,zimmerman,754,1222
+Dynamic Queue,chi,802,79
+Sorted List,zimmerman,429,2933
+Circular Linked List,zimmerman,656,5180
+Averager,chi,254,942
+Dynamic Queue,chi,136,3756
+Sorted List,zimmerman,793,2965
+Circular Linked List,chi,385,2490
+Dynamic Queue,baseline,23,4693
+Sorted List,zimmerman,233,1846
+Sorted List,baseline,634,2516
+Dynamic Queue,baseline,607,2535
+Averager,baseline,608,750
+Dynamic Queue,zimmerman,666,3455
+Binary Tree Depth,chi,10,294
+Sorted List,zimmerman,584,3373
+Dynamic Queue,chi,231,4328
+Circular Linked List,baseline,239,1805
+Averager,chi,90,406
+Sorted List,zimmerman,292,2980
+Dynamic Queue,chi,713,2742
+Dynamic Queue,chi,260,1127
+Dynamic Queue,baseline,119,4660
+Dynamic Queue,baseline,327,3870
+Circular Linked List,baseline,684,4009
+Binary Tree Depth,chi,212,3420
+Sorted List,baseline,239,1361
+Sorted List,baseline,406,1261
+Dynamic Queue,baseline,82,6604
+Sorted List,zimmerman,129,1890
+Dynamic Queue,chi,730,3522
+Sorted List,baseline,684,1516
+Binary Tree Depth,chi,178,1358
+Binary Tree Depth,chi,474,3600
+Dynamic Queue,zimmerman,766,1901
+Binary Tree Depth,baseline,119,1107
+Circular Linked List,chi,715,4641
+Dynamic Queue,chi,263,2794
+Circular Linked List,zimmerman,111,4293
+Sorted List,zimmerman,511,3222
+Averager,zimmerman,665,1982
+Set Product,zimmerman,195,3519
+Binary Tree Depth,zimmerman,778,2045
+Binary Tree Depth,chi,688,797
+Binary Tree Depth,chi,594,1579
+Dynamic Queue,chi,474,2585
+Dynamic Queue,baseline,29,88
+Dynamic Queue,chi,543,7551
+Sorted List,zimmerman,202,3194
+Binary Tree Depth,baseline,23,1480
+Sorted List,zimmerman,279,5537
+Dynamic Queue,chi,10,528
+Dynamic Queue,chi,688,3819
+Circular Linked List,zimmerman,504,5920
+Binary Tree Depth,baseline,29,641
+Sorted List,baseline,652,1786
+Binary Tree Depth,chi,730,465
+Circular Linked List,zimmerman,423,4779
+Circular Linked List,zimmerman,389,9168
+Circular Linked List,chi,807,9443
+Circular Linked List,chi,606,276
+Circular Linked List,baseline,276,4349
+Dynamic Queue,zimmerman,540,2584
+Sorted List,baseline,587,1616
+Circular Linked List,baseline,652,2725
+Sorted List,zimmerman,423,248
+Circular Linked List,baseline,768,2579
+Circular Linked List,baseline,587,3633
+Dynamic Queue,chi,22,516
+Dynamic Queue,zimmerman,56,14277
+Circular Linked List,zimmerman,345,5444
+Sorted List,chi,715,3297
+Sorted List,zimmerman,504,4228
+Binary Tree Depth,baseline,327,1601
+Dynamic Queue,baseline,586,3306
+Dynamic Queue,baseline,420,1893
+Binary Tree Depth,baseline,393,574
+Dynamic Queue,zimmerman,473,77
+Circular Linked List,zimmerman,299,2948
+Sorted List,chi,205,1376
+Circular Linked List,chi,187,3228
+Binary Tree Depth,chi,462,1043
+Sorted List,zimmerman,299,2012
+Sorted List,zimmerman,759,1786
+Dynamic Queue,zimmerman,235,10034
+Dynamic Queue,baseline,163,1882
+Sorted List,baseline,362,630
+Binary Tree Depth,chi,713,2084
+Circular Linked List,zimmerman,530,2991
+Sorted List,chi,116,2233
+Sorted List,baseline,648,1578
+Binary Tree Depth,baseline,568,1675
+Binary Tree Depth,zimmerman,666,842
+Dynamic Queue,baseline,373,2790
+Circular Linked List,chi,143,3804
+Circular Linked List,zimmerman,14,1999
+Circular Linked List,zimmerman,560,5478
+Circular Linked List,chi,677,3566
+Circular Linked List,chi,217,3763
+Complex Numbers,zimmerman,232,931
+Sorted List,zimmerman,14,1194
+Circular Linked List,zimmerman,716,5269
+Binary Tree Depth,baseline,362,637
+Binary Tree Depth,zimmerman,804,2181
+Circular Linked List,chi,411,3279
+Binary Tree Depth,zimmerman,540,1244
+Binary Tree Depth,zimmerman,190,1359
+Dynamic Queue,chi,484,4615
+Dynamic Queue,zimmerman,774,4814
+Sorted List,zimmerman,486,1948
+Sorted List,chi,383,2549
+Sorted List,zimmerman,456,2034
+Circular Linked List,zimmerman,456,4517
+Dynamic Queue,chi,112,4836
+Circular Linked List,chi,649,2707
+Sorted List,chi,143,2864
+Sorted List,zimmerman,111,826
+Binary Tree Depth,baseline,82,4973
+Sorted List,baseline,38,550
+Sorted List,chi,489,2901
+Circular Linked List,zimmerman,479,4115
+Sorted List,chi,187,1403
+Dynamic Queue,zimmerman,254,5468
+Binary Tree Depth,zimmerman,748,1833
+Binary Tree Depth,chi,118,965
+Dynamic Queue,chi,462,1028
+Circular Linked List,baseline,50,2449
+Dynamic Queue,zimmerman,90,2903
+Dynamic Queue,baseline,28,1796
+Sorted List,zimmerman,345,3926
+Dynamic Queue,zimmerman,215,5272
+Circular Linked List,baseline,38,780
+Dynamic Queue,baseline,315,6354
+Sorted List,zimmerman,479,1930
+Dynamic Queue,chi,60,3938
+Circular Linked List,chi,92,4065
+Sorted List,zimmerman,644,2431
+Dynamic Queue,zimmerman,190,3616
+Circular Linked List,zimmerman,681,3238
+Dynamic Queue,chi,101,6880
+Circular Linked List,baseline,176,1131
+Binary Tree Depth,baseline,785,821
+Dynamic Queue,chi,34,5928
+Circular Linked List,baseline,28,524
+Binary Tree Depth,baseline,353,232
+Dynamic Queue,baseline,353,1335
+Circular Linked List,baseline,31,1020
+Dynamic Queue,baseline,785,3488
+Dynamic Queue,chi,54,7571
+Sorted List,baseline,589,739
+Binary Tree Depth,chi,101,1955
+Sorted List,baseline,176,1111
+Dynamic Queue,chi,104,3697
+Sorted List,chi,411,1408
+Dynamic Queue,chi,594,147
+Circular Linked List,chi,95,3126
+Sorted List,chi,8,2734
+Binary Tree Depth,zimmerman,90,589
+Sorted List,baseline,185,1102
+Circular Linked List,baseline,542,2537
+Sorted List,zimmerman,530,388
+Sorted List,chi,744,2653
+Sorted List,zimmerman,189,3810
+Dynamic Queue,chi,529,5942
+Sorted List,baseline,50,1137
+Binary Tree Depth,zimmerman,56,5989
+Binary Tree Depth,chi,691,2460
+Sorted List,zimmerman,630,1296
+Sorted List,chi,576,2104
+Dynamic Queue,chi,309,5116
+Circular Linked List,baseline,654,43
+Sorted List,baseline,31,1382
+Sorted List,zimmerman,662,569
+Circular Linked List,zimmerman,611,5135
+Circular Linked List,chi,489,3024
+All permutations,zimmerman,356,3621
+Sorted List,baseline,542,1197
+Dynamic Queue,chi,518,6352
+Binary Tree Depth,chi,309,2031
+Circular Linked List,zimmerman,284,4443
+Circular Linked List,zimmerman,662,3240
+Sorted List,baseline,535,760
+Binary Tree Depth,chi,136,976
+Sorted List,zimmerman,681,1392
+Binary Tree Depth,baseline,382,768
+Circular Linked List,baseline,495,1823
+Circular Linked List,zimmerman,538,3260
+Circular Linked List,zimmerman,135,89
+Circular Linked List,zimmerman,279,4041
+Dynamic Queue,baseline,517,712
+Circular Linked List,baseline,188,2790
+Circular Linked List,chi,576,3800
+Sorted List,baseline,467,2326
+Binary Tree Depth,zimmerman,69,1533
+Dynamic Queue,zimmerman,69,724
+Circular Linked List,zimmerman,305,118
+Dynamic Queue,chi,548,5104
+Circular Linked List,zimmerman,66,3217
+Circular Linked List,baseline,634,2420
+Circular Linked List,baseline,339,2590
+Understanding Pointers - First_Char,zimmerman,430,129
+Dynamic Queue,baseline,296,3880
+Binary Tree Depth,baseline,225,1490
+Dynamic Queue,chi,363,4324
+Circular Linked List,zimmerman,80,3544
+Binary Tree Depth,baseline,315,2180
+Circular Linked List,chi,86,3104
+Sorted List,chi,618,246
+Circular Linked List,chi,220,6726
+Sorted List,baseline,800,1469
+Sorted List,chi,580,1240
+Sorted List,zimmerman,716,2738
+Circular Linked List,zimmerman,494,2364
+Sorted List,baseline,722,1126
+Sorted List,zimmerman,494,2570
+Sorted List,chi,807,1452
+Dynamic Queue,baseline,225,5075
+Binary Tree Depth,chi,363,2167
+Circular Linked List,zimmerman,379,3567
+Binary Tree Depth,chi,104,1513
+Circular Linked List,baseline,536,1883
+Circular Linked List,chi,21,151
+Sorted List,zimmerman,144,1615
+Sorted List,baseline,808,1629
+Circular Linked List,chi,667,6222
+Sorted List,zimmerman,305,88
+Complex Numbers,baseline,147,4494
+Circular Linked List,zimmerman,240,5008
+Sorted List,baseline,188,1397
+Circular Linked List,baseline,317,1161
+Dynamic Queue,baseline,764,3852
+Complex Numbers,baseline,510,179
+Circular Linked List,chi,398,3116
+Complex Numbers,zimmerman,665,5397
+Circular Linked List,chi,580,3915
+Sorted List,zimmerman,611,670
+Averager,baseline,147,981
+Dynamic Queue,zimmerman,566,3922
+Sorted List,chi,396,3947
+Sorted List,zimmerman,270,1467
+Binary Tree Depth,chi,147,1771
+Sorted List,zimmerman,80,1508
+Dynamic Queue,baseline,726,5086
+Binary Tree Depth,zimmerman,566,1069
+Sorted List,baseline,696,268
+Sorted List,chi,17,1195
+Sorted List,zimmerman,275,3593
+All permutations,baseline,597,3209
+Averager,baseline,510,71
+Binary Tree Depth,zimmerman,216,1229
+Circular Linked List,baseline,63,2
+Circular Linked List,chi,17,2280
+Dynamic Queue,baseline,531,2929
+Sorted List,baseline,692,570
+Sorted List,chi,77,2676
+Dynamic Queue,baseline,431,523
+Dynamic Queue,chi,147,4138
+Circular Linked List,baseline,362,540
+Circular Linked List,zimmerman,464,1346
+Sorted List,zimmerman,379,2082
+Dynamic Queue,baseline,567,4238
+Dynamic Queue,baseline,447,2208
+Circular Linked List,baseline,739,989
+Circular Linked List,zimmerman,755,1657
+Binary Tree Depth,chi,222,1822
+Circular Linked List,chi,625,251
+Dynamic Queue,chi,788,90
+Sorted List,chi,677,329
+Circular Linked List,zimmerman,550,1078
+Sorted List,baseline,343,77
+Circular Linked List,zimmerman,137,2275
+Binary Tree Depth,baseline,531,1369
+Dynamic Queue,zimmerman,461,2750
+Circular Linked List,zimmerman,793,6379
+Dynamic Queue,zimmerman,471,753
+Circular Linked List,baseline,460,2801
+Circular Linked List,chi,396,2463
+Binary Tree Depth,zimmerman,550,770
+Circular Linked List,chi,117,3358
+Sorted List,baseline,460,947
+Circular Linked List,chi,77,2722
+Dynamic Queue,zimmerman,676,375
+Binary Tree Depth,zimmerman,471,1911
+Circular Linked List,baseline,547,228
+Binary Tree Depth,zimmerman,91,2668
+Dynamic Queue,baseline,249,4520
+Circular Linked List,zimmerman,144,2242
+Dynamic Queue,baseline,343,5958
+Binary Tree Depth,baseline,420,60
+Sorted List,baseline,768,3379
+Circular Linked List,baseline,796,1697
+Binary Tree Depth,zimmerman,403,1745
+Sorted List,zimmerman,755,1024
+Circular Linked List,zimmerman,73,3586
+Complex Numbers,zimmerman,446,662
+Dynamic Queue,chi,306,4408
+Binary Tree Depth,baseline,801,1446
+Sorted List,chi,256,96
+Circular Linked List,chi,442,3662
+Dynamic Queue,baseline,472,1181
+Circular Linked List,zimmerman,797,3237
+Dynamic Queue,baseline,665,6000
+Dynamic Queue,zimmerman,115,6090
+Binary Tree Depth,baseline,249,983
+Dynamic Queue,zimmerman,253,5358
+Circular Linked List,chi,561,4057
+Binary Tree Depth,baseline,726,2961
+Averager,zimmerman,446,76
+Binary Tree Depth,chi,306,64
+Binary Tree Depth,baseline,586,2135
+Dynamic Queue,zimmerman,631,363
+Circular Linked List,zimmerman,498,3088
+Circular Linked List,chi,93,2203
+Dynamic Queue,baseline,801,86
+Circular Linked List,chi,74,461
+Circular Linked List,zimmerman,639,5903
+Binary Tree Depth,chi,263,994
+Binary Tree Depth,baseline,632,73
+Binary Tree Depth,zimmerman,253,1766
+Dynamic Queue,zimmerman,403,3930
+Dynamic Queue,zimmerman,169,88
+Binary Tree Depth,zimmerman,461,684
+Binary Tree Depth,baseline,607,1072
+Circular Linked List,chi,198,3778
+All permutations,zimmerman,354,1964
+Sorted List,baseline,770,1256
+Circular Linked List,chi,175,1066
+Set Product,zimmerman,354,842
+Binary Tree Depth,zimmerman,602,6902
+Sorted List,chi,117,1846
+Dynamic Queue,chi,70,4849
+Sorted List,zimmerman,391,119
+Sorted List,baseline,276,1581
+Sorted List,chi,561,2290
+Dynamic Queue,baseline,710,4950
+Sorted List,chi,93,429
+Circular Linked List,zimmerman,289,60
+Sorted List,zimmerman,592,4031
+Dynamic Queue,baseline,657,1293
+Sorted List,chi,198,1266
+Circular Linked List,baseline,800,1792
+Circular Linked List,baseline,352,3927
+Dynamic Queue,zimmerman,149,1529
+Averager,zimmerman,640,1707
+Set Product,zimmerman,640,5456
+Circular Linked List,baseline,586,2735
+Circular Linked List,zimmerman,254,5770
+Dynamic Queue,zimmerman,397,3698
+Sorted List,zimmerman,267,30
+Circular Linked List,zimmerman,592,2793
+Circular Linked List,baseline,599,105
+Sorted List,zimmerman,213,2090
+Complex Numbers,zimmerman,354,1789
+Binary Tree Depth,baseline,710,2748
+Binary Tree Depth,zimmerman,96,491
+Dynamic Queue,zimmerman,368,1819
+Binary Tree Depth,zimmerman,361,204
+Dynamic Queue,chi,731,2610
+Dynamic Queue,chi,321,1800
+Binary Tree Depth,zimmerman,149,1067
+Dynamic Queue,baseline,480,2948
+Circular Linked List,chi,633,3522
+Sorted List,chi,86,2322
+Sorted List,zimmerman,639,1954
+Circular Linked List,zimmerman,725,2428
+Sorted List,zimmerman,464,1545
+Sorted List,zimmerman,725,1154
+Averager,zimmerman,354,400
+Dynamic Queue,chi,795,6075
+Dynamic Queue,chi,735,4789
+Circular Linked List,baseline,407,1100
+Sorted List,baseline,262,70
+Sorted List,baseline,418,6195
+Binary Tree Depth,baseline,499,180
+Circular Linked List,baseline,777,3294
+Circular Linked List,chi,58,1170
+Sorted List,chi,667,1213
+Sorted List,chi,341,1514
+Sorted List,zimmerman,571,89
+Binary Tree Depth,baseline,480,1215
+Dynamic Queue,baseline,320,2345
+Sorted List,zimmerman,24,477
+Sorted List,zimmerman,284,1274
+Binary Tree Depth,baseline,447,61
+Sorted List,baseline,739,67
+Sorted List,chi,243,1678
+Sorted List,zimmerman,498,180
+Binary Tree Depth,baseline,665,111
+Circular Linked List,baseline,690,832
+Sorted List,zimmerman,304,3325
+Binary Tree Depth,zimmerman,774,423
+Circular Linked List,zimmerman,500,1562
+Dynamic Queue,zimmerman,369,418
+Sorted List,chi,398,593
+Sorted List,zimmerman,560,232
+Dynamic Queue,chi,122,1279
+Binary Tree Depth,baseline,354,1272
+Sorted List,chi,335,211
+Sorted List,baseline,777,1600
+Circular Linked List,zimmerman,364,4273
+Circular Linked List,baseline,418,790
+Circular Linked List,chi,433,3716
+Understanding Pointers - First_Char,chi,226,511
+Binary Tree Depth,chi,672,2577
+Binary Tree Depth,zimmerman,676,181
+Sorted List,chi,433,850
+Circular Linked List,baseline,785,968
+Dynamic Queue,baseline,354,3154
+Binary Tree Depth,baseline,378,1751
+Circular Linked List,zimmerman,213,2596
+Circular Linked List,zimmerman,294,2789
+Sorted List,zimmerman,609,150
+Binary Tree Depth,zimmerman,115,128
+Binary Tree Depth,baseline,440,58
+Dynamic Queue,baseline,499,3212
+Circular Linked List,chi,596,4564
+Sorted List,chi,596,1534
+Sorted List,chi,220,778
+Sorted List,chi,95,1227
+Circular Linked List,baseline,262,3151
+Binary Tree Depth,zimmerman,397,1520
+Binary Tree Depth,chi,597,3424
+Circular Linked List,zimmerman,579,150
+Binary Tree Depth,baseline,750,1382
+Dynamic Queue,chi,65,4514
+Binary Tree Depth,baseline,421,624
+Dynamic Queue,chi,51,8285
+Dynamic Queue,chi,647,5076
+Sorted List,zimmerman,294,119
+Dynamic Queue,baseline,614,1762
+Binary Tree Depth,zimmerman,562,1745
+Binary Tree Depth,baseline,209,364
+Dynamic Queue,zimmerman,417,4079
+Array-based Vector - Rule of Three,chi,722,480
+Circular Linked List,baseline,355,1774
+Understanding Pointers - First_Char,chi,162,409
+Sorted List,chi,385,2729
+Array-based Vector - Rule of Three,baseline,72,513
+Binary Tree Depth,chi,661,119
+Sorted List,baseline,355,1440
+Binary Tree Depth,chi,647,1358
+Dynamic Queue,baseline,308,666
+Circular Linked List,zimmerman,146,90
+Dynamic Queue,baseline,342,7561
+Dynamic Queue,baseline,738,2612
+Understanding Pointers - First_Char,baseline,278,307
+Binary Tree Depth,baseline,78,488
+Dynamic Queue,zimmerman,257,1756
+Dynamic Queue,baseline,78,3218
+Understanding Pointers - First_Char,baseline,111,385
+Array-based Vector - Rule of Three,chi,162,1290
+Dynamic Queue,zimmerman,388,4233
+Understanding Pointers - First_Char,chi,806,150
+Array-based Vector - Rule of Three,baseline,111,1120
+Dynamic Queue,baseline,421,2377
+Sorted List,chi,58,1222
+Binary Tree Depth,zimmerman,810,1919
+Binary Tree Depth,baseline,12,294
+Binary Tree Depth,zimmerman,388,693
+Binary Tree Depth,baseline,451,570
+Dynamic Queue,zimmerman,216,2243
+Array-based Vector - Rule of Three,zimmerman,58,187
+Sorted List,zimmerman,557,2275
+Binary Tree Depth,zimmerman,481,1254
+Dynamic Queue,zimmerman,47,9706
+Circular Linked List,baseline,539,1132
+Dynamic Queue,baseline,451,2803
+Dynamic Queue,baseline,12,105
+Dynamic Queue,zimmerman,570,4020
+Sorted List,zimmerman,146,124
+Binary Tree Depth,chi,548,1816
+Dynamic Queue,zimmerman,775,1629
+Binary Tree Depth,baseline,227,255
+Circular Linked List,baseline,454,253
+Binary Tree Depth,baseline,567,935
+Dynamic Queue,zimmerman,562,1192
+Circular Linked List,chi,243,2181
+Sorted List,baseline,407,854
+Sorted List,zimmerman,364,1077
+Sorted List,chi,694,2649
+Circular Linked List,zimmerman,557,2783
+Understanding Pointers - First_Char,chi,692,636
+Circular Linked List,baseline,642,191
+Dynamic Queue,baseline,76,2523
+Binary Tree Depth,baseline,502,2044
+Binary Tree Depth,chi,529,2538
+Dynamic Queue,chi,123,363
+Binary Tree Depth,baseline,409,480
+Sorted List,zimmerman,538,714
+Dynamic Queue,zimmerman,337,291
+Understanding Pointers - First_Char,baseline,366,60
+Binary Tree Depth,zimmerman,525,150
+Sorted List,baseline,539,29
+Binary Tree Depth,chi,518,813
+Understanding Pointers - First_Char,chi,798,1345
+Binary Tree Depth,baseline,76,921
+Circular Linked List,baseline,258,1236
+Circular Linked List,zimmerman,734,2589
+Sorted List,chi,707,1080
+Circular Linked List,baseline,432,2272
+Dynamic Queue,chi,390,1453
+Dynamic Queue,baseline,409,2840
+Circular Linked List,zimmerman,94,5299
+Binary Tree Depth,chi,123,60
+Dynamic Queue,chi,178,5369
+Binary Tree Depth,zimmerman,417,1608
+Binary Tree Depth,baseline,283,1152
+Dynamic Queue,zimmerman,603,4421
+Circular Linked List,zimmerman,370,2567
+Sorted List,baseline,352,1061
+Sorted List,baseline,134,2766
+Circular Linked List,chi,707,4201
+Dynamic Queue,chi,672,3670
+Dynamic Queue,baseline,298,5302
+Circular Linked List,zimmerman,520,4037
+Dynamic Queue,chi,251,2585
+Sorted List,baseline,432,791
+Sorted List,zimmerman,797,352
+Circular Linked List,baseline,134,2521
+Binary Tree Depth,chi,251,1545
+Binary Tree Depth,chi,65,1080
+Binary Tree Depth,baseline,298,2610
+Circular Linked List,chi,548,3689
+Binary Tree Depth,chi,390,455
+Array-based Vector - Rule of Three,baseline,444,212
+Averager,chi,155,1337
+Binary Tree Depth,baseline,764,1377
+Sorted List,zimmerman,370,634
+Sorted List,baseline,690,936
+Circular Linked List,chi,659,2687
+Array-based Vector - Rule of Three,chi,758,1273
+Understanding Pointers - First_Char,baseline,345,599
+Dynamic Queue,chi,230,1720
+Binary Tree Depth,baseline,320,569
+Array-based Vector - Rule of Three,chi,806,510
+Binary Tree Depth,zimmerman,603,1739
+Array-based Vector - Rule of Three,chi,692,1636
+Circular Linked List,chi,577,2791
+Understanding Pointers - First_Char,baseline,304,652
+Dynamic Queue,zimmerman,602,7276
+Dynamic Queue,chi,506,1708
+Binary Tree Depth,chi,735,2305
+Array-based Vector - Rule of Three,baseline,304,1988
+Binary Tree Depth,chi,54,3115
+Sorted List,chi,577,2103
+Circular Linked List,chi,551,2236
+All permutations,zimmerman,195,2308
+Array-based Vector - Rule of Three,baseline,278,332
+Circular Linked List,chi,203,3260
+Binary Tree Depth,chi,125,86
+Circular Linked List,chi,161,4205
+Array-based Vector - Rule of Three,zimmerman,430,4312
+Array-based Vector - Rule of Three,zimmerman,64,734
+Circular Linked List,chi,19,281
+Complex Numbers,zimmerman,303,908
+Array-based Vector - Rule of Three,chi,446,400
+Sorted List,zimmerman,94,2543
+Circular Linked List,chi,263,63
+Circular Linked List,zimmerman,783,917
+Circular Linked List,zimmerman,235,8138
+Circular Linked List,chi,309,9214
+Array-based Vector - Rule of Three,baseline,345,1999
+Binary Tree Depth,chi,55,1945
+All permutations,zimmerman,640,2596
+Circular Linked List,zimmerman,69,1232
+Circular Linked List,chi,744,4047
+Understanding Pointers - First_Char,chi,670,118
+Array-based Vector - Rule of Three,baseline,449,1163
+Array-based Vector - Rule of Three,chi,670,858
+Complex Numbers,zimmerman,195,4168
+Sorted List,baseline,224,1468
+Array-based Vector - Rule of Three,chi,493,419
+Circular Linked List,zimmerman,453,380
+Array-based Vector - Rule of Three,chi,528,149
+Understanding Pointers - First_Char,baseline,202,813
+Sorted List,zimmerman,699,178
+Sorted List,baseline,258,1204
+Sorted List,zimmerman,149,485
+Circular Linked List,zimmerman,337,99
+Array-based Vector - Rule of Three,chi,798,975
+Circular Linked List,chi,136,5140
+Circular Linked List,zimmerman,280,30
+Circular Linked List,zimmerman,388,3227
+Circular Linked List,zimmerman,149,2531
+Circular Linked List,chi,450,4159
+Dynamic Queue,baseline,282,527
+Understanding Pointers - First_Char,baseline,405,432
+Circular Linked List,baseline,771,4993
+Circular Linked List,zimmerman,693,3725
+Array-based Vector - Rule of Three,zimmerman,302,510
+Circular Linked List,chi,691,2330
+Understanding Pointers - First_Char,baseline,279,147
+Circular Linked List,chi,123,734
+Circular Linked List,baseline,704,2745
+Circular Linked List,chi,244,1226
+Array-based Vector - Rule of Three,baseline,279,1335
+Circular Linked List,chi,730,1320
+Sorted List,chi,92,118
+Dynamic Queue,zimmerman,423,3389
+Understanding Pointers - First_Char,baseline,811,380
+Circular Linked List,chi,363,10819
+Dynamic Queue,chi,33,846
+Circular Linked List,chi,306,3705
+Understanding Pointers - First_Char,zimmerman,302,240
+Circular Linked List,zimmerman,754,4391
+Circular Linked List,baseline,249,4234
+Circular Linked List,zimmerman,588,3243
+Sorted List,baseline,503,896
+Understanding Pointers - First_Char,zimmerman,398,1164
+Sorted List,chi,161,1816
+Circular Linked List,chi,312,3045
+Array-based Vector - Rule of Three,baseline,811,892
+Sorted List,zimmerman,186,1416
+Circular Linked List,chi,27,3045
+Array-based Vector - Rule of Three,baseline,128,1889
+Understanding Pointers - First_Char,baseline,449,497
+Circular Linked List,baseline,568,403
+Sorted List,zimmerman,734,1864
+Circular Linked List,baseline,726,2646
+Circular Linked List,chi,490,3949
+Circular Linked List,chi,33,161
+Understanding Pointers - First_Char,chi,729,1586
+Understanding Pointers - First_Char,chi,767,1157
+Understanding Pointers - First_Char,zimmerman,198,1050
+Circular Linked List,baseline,76,2114
+Circular Linked List,chi,52,3551
+Circular Linked List,chi,65,257
+Understanding Pointers - First_Char,baseline,367,360
+Understanding Pointers - First_Char,baseline,80,510
+Sorted List,zimmerman,804,1182
+Understanding Pointers - First_Char,chi,770,285
+Array-based Vector - Rule of Three,chi,749,872
+Understanding Pointers - First_Char,baseline,240,557
+Array-based Vector - Rule of Three,baseline,80,922
+Array-based Vector - Rule of Three,zimmerman,198,1799
+Dynamic Queue,chi,608,7139
+Array-based Vector - Rule of Three,baseline,405,1879
+Sorted List,baseline,393,1138
+Dynamic Queue,chi,268,4029
+Sorted List,zimmerman,11,2941
+Array-based Vector - Rule of Three,chi,507,1252
+Array-based Vector - Rule of Three,chi,729,3522
+Array-based Vector - Rule of Three,chi,767,2413
+Array-based Vector - Rule of Three,baseline,365,1038
+Array-based Vector - Rule of Three,baseline,73,500
+Array-based Vector - Rule of Three,zimmerman,398,1772
+Sorted List,baseline,23,1347
+Array-based Vector - Rule of Three,baseline,367,969
+Set Product,baseline,310,1088
+Understanding Pointers - First_Char,chi,126,810
+Array-based Vector - Rule of Three,chi,126,1805
+Circular Linked List,chi,529,5959
+Sorted List,zimmerman,754,2905
+Circular Linked List,baseline,393,2211
+Sorted List,chi,363,1259
+Sorted List,chi,27,2609
+Understanding Pointers - First_Char,zimmerman,515,728
+Array-based Vector - Rule of Three,chi,770,3576
+Understanding Pointers - First_Char,chi,684,465
+Array-based Vector - Rule of Three,chi,416,3694
+Understanding Pointers - First_Char,baseline,73,157
+Array-based Vector - Rule of Three,chi,684,1486
+Understanding Pointers - First_Char,chi,740,112
+Array-based Vector - Rule of Three,zimmerman,271,995
+Circular Linked List,zimmerman,720,2310
+Array-based Vector - Rule of Three,chi,719,24
+Sorted List,chi,551,499
+Circular Linked List,baseline,23,2054
+Circular Linked List,chi,212,3869
+Circular Linked List,chi,260,72
+Array-based Vector - Rule of Three,zimmerman,414,1741
+Circular Linked List,chi,234,1472
+Array-based Vector - Rule of Three,zimmerman,89,29
+Array-based Vector - Rule of Three,chi,375,1613
+Array-based Vector - Rule of Three,chi,218,2570
+Sorted List,zimmerman,388,2239
+Understanding Pointers - First_Char,baseline,669,268
+Circular Linked List,zimmerman,199,2026
+Complex Numbers,baseline,310,765
+Dynamic Queue,baseline,336,103
+Array-based Vector - Rule of Three,chi,740,1651
+Circular Linked List,chi,680,2764
+Sorted List,chi,52,2214
+Understanding Pointers - First_Char,baseline,284,523
+Sorted List,chi,136,2223
+Sorted List,chi,680,1252
+Understanding Pointers - First_Char,baseline,644,841
+Circular Linked List,baseline,421,2766
+Array-based Vector - Rule of Three,baseline,669,4419
+Circular Linked List,chi,118,4680
+Understanding Pointers - First_Char,baseline,762,90
+Understanding Pointers - First_Char,baseline,557,212
+Sorted List,chi,234,1784
+Understanding Pointers - First_Char,baseline,149,250
+Sorted List,baseline,627,1439
+Array-based Vector - Rule of Three,chi,412,2206
+All permutations,baseline,310,862
+Sorted List,baseline,421,1585
+Understanding Pointers - First_Char,chi,412,510
+Sorted List,chi,173,2636
+Array-based Vector - Rule of Three,baseline,557,1402
+Array-based Vector - Rule of Three,baseline,494,412
+Binary Tree Depth,zimmerman,494,1584
+Complex Numbers,zimmerman,336,116
+Understanding Pointers - First_Char,chi,416,703
+Averager,zimmerman,336,24
+Understanding Pointers - First_Char,zimmerman,8,916
+Sorted List,chi,212,2140
+Understanding Pointers - First_Char,zimmerman,271,291
+Circular Linked List,zimmerman,186,4634
+Understanding Pointers - First_Char,zimmerman,143,480
+Array-based Vector - Rule of Three,baseline,571,350
+Understanding Pointers - First_Char,zimmerman,489,837
+Circular Linked List,baseline,12,1852
+Circular Linked List,chi,781,3580
+Understanding Pointers - First_Char,baseline,530,926
+Array-based Vector - Rule of Three,baseline,366,2197
+Circular Linked List,zimmerman,172,189
+Array-based Vector - Rule of Three,baseline,486,1487
+Understanding Pointers - First_Char,baseline,371,1150
+Circular Linked List,chi,795,4521
+Sorted List,zimmerman,172,114
+Understanding Pointers - First_Char,baseline,494,298
+Understanding Pointers - First_Char,zimmerman,715,777
+Sorted List,baseline,704,1719
+Sorted List,chi,490,293
+Understanding Pointers - First_Char,baseline,233,1125
+Sorted List,chi,781,2034
+Understanding Pointers - First_Char,zimmerman,7,143
+Circular Linked List,chi,402,3012
+Understanding Pointers - First_Char,zimmerman,577,478
+Array-based Vector - Rule of Three,zimmerman,715,2555
+Array-based Vector - Rule of Three,zimmerman,205,150
+Sorted List,zimmerman,693,2533
+Understanding Pointers - First_Char,baseline,292,503
+Circular Linked List,chi,173,3464
+Sorted List,chi,312,1227
+Circular Linked List,baseline,610,2616
+Averager,baseline,310,140
+Understanding Pointers - First_Char,baseline,786,409
+Understanding Pointers - First_Char,baseline,681,510
+Understanding Pointers - First_Char,chi,50,517
+Circular Linked List,zimmerman,115,2105
+Understanding Pointers - First_Char,zimmerman,383,270
+Circular Linked List,zimmerman,62,5453
+Array-based Vector - Rule of Three,chi,362,60
+Understanding Pointers - First_Char,zimmerman,205,572
+Understanding Pointers - First_Char,chi,463,549
+Array-based Vector - Rule of Three,baseline,233,2606
+Array-based Vector - Rule of Three,zimmerman,744,2193
+Array-based Vector - Rule of Three,baseline,786,844
+Understanding Pointers - First_Char,baseline,144,369
+Array-based Vector - Rule of Three,chi,634,2276
+Sorted List,baseline,12,1407
+Circular Linked List,zimmerman,11,2435
+Understanding Pointers - First_Char,zimmerman,809,89
+Understanding Pointers - First_Char,chi,362,177
+Array-based Vector - Rule of Three,chi,463,960
+Set Product,zimmerman,46,923
+Array-based Vector - Rule of Three,baseline,144,642
+Understanding Pointers - First_Char,baseline,465,540
+Array-based Vector - Rule of Three,zimmerman,383,2653
+Circular Linked List,baseline,567,2393
+Sorted List,chi,203,720
+Array-based Vector - Rule of Three,chi,648,1758
+Understanding Pointers - First_Char,chi,587,806
+Array-based Vector - Rule of Three,chi,239,2208
+Understanding Pointers - First_Char,chi,460,263
+Dynamic Queue,zimmerman,11,4507
+Array-based Vector - Rule of Three,baseline,465,859
+Array-based Vector - Rule of Three,chi,50,2133
+Set Product,baseline,521,6729
+Array-based Vector - Rule of Three,chi,587,1766
+Circular Linked List,zimmerman,215,2432
+Array-based Vector - Rule of Three,zimmerman,577,1230
+Understanding Pointers - First_Char,zimmerman,667,353
+Circular Linked List,zimmerman,56,7810
+Binary Tree Depth,chi,608,1490
+Understanding Pointers - First_Char,chi,239,506
+Array-based Vector - Rule of Three,baseline,299,1075
+Sorted List,chi,178,2126
+Sorted List,zimmerman,291,3250
+Array-based Vector - Rule of Three,baseline,292,1603
+Circular Linked List,zimmerman,481,2254
+Dynamic Queue,chi,310,393
+Array-based Vector - Rule of Three,zimmerman,807,367
+Circular Linked List,baseline,119,2152
+Understanding Pointers - First_Char,baseline,725,469
+Array-based Vector - Rule of Three,baseline,120,818
+Sorted List,chi,147,2195
+Array-based Vector - Rule of Three,zimmerman,618,1122
+Circular Linked List,zimmerman,397,337
+Complex Numbers,baseline,521,964
+Understanding Pointers - First_Char,baseline,120,29
+Circular Linked List,baseline,315,6556
+Array-based Vector - Rule of Three,zimmerman,59,1146
+Circular Linked List,zimmerman,190,3988
+Circular Linked List,chi,518,5748
+Array-based Vector - Rule of Three,chi,808,1169
+Array-based Vector - Rule of Three,zimmerman,17,649
+Array-based Vector - Rule of Three,zimmerman,515,538
+Sorted List,baseline,610,1140
+Understanding Pointers - First_Char,zimmerman,17,264
+Sorted List,chi,19,1152
+Circular Linked List,baseline,166,2176
+Array-based Vector - Rule of Three,baseline,479,2560
+Circular Linked List,chi,672,3712
+Array-based Vector - Rule of Three,baseline,725,2703
+Sorted List,zimmerman,656,670
+Sorted List,zimmerman,62,3690
+Circular Linked List,baseline,82,7227
+Circular Linked List,chi,688,1870
+Array-based Vector - Rule of Three,zimmerman,173,3180
+Sorted List,chi,51,4412
+Set Product,baseline,103,446
+Set Product,zimmerman,718,1769
+Circular Linked List,baseline,179,2217
+Understanding Pointers - First_Char,baseline,479,640
+Understanding Pointers - First_Char,chi,808,363
+Sorted List,zimmerman,190,4412
+Binary Tree Depth,baseline,446,514
+Sorted List,chi,688,1101
+Array-based Vector - Rule of Three,zimmerman,143,3923
+Array-based Vector - Rule of Three,baseline,644,4638
+Array-based Vector - Rule of Three,baseline,793,1363
+Circular Linked List,chi,54,6235
+Sorted List,zimmerman,588,2506
+Sorted List,chi,402,1303
+Understanding Pointers - First_Char,zimmerman,744,446
+Binary Tree Depth,chi,310,690
+Circular Linked List,zimmerman,350,3788
+Understanding Pointers - First_Char,baseline,14,213
+Array-based Vector - Rule of Three,baseline,14,750
+Sorted List,chi,661,1875
+Array-based Vector - Rule of Three,zimmerman,667,2324
+Understanding Pointers - First_Char,baseline,429,138
+Binary Tree Depth,chi,112,1889
+Circular Linked List,baseline,221,1510
+Understanding Pointers - First_Char,baseline,129,605
+Array-based Vector - Rule of Three,baseline,456,1085
+Sorted List,chi,649,1802
+Circular Linked List,chi,506,1575
+Array-based Vector - Rule of Three,baseline,629,420
+Sorted List,chi,730,1578
+Array-based Vector - Rule of Three,zimmerman,442,1573
+Array-based Vector - Rule of Three,baseline,129,1380
+Sorted List,chi,22,383
+Array-based Vector - Rule of Three,baseline,202,1708
+Sorted List,zimmerman,215,1561
+Understanding Pointers - First_Char,baseline,629,530
+Array-based Vector - Rule of Three,baseline,429,1078
+Sorted List,baseline,695,306
+Sorted List,zimmerman,56,3777
+Array-based Vector - Rule of Three,baseline,560,2050
+Circular Linked List,zimmerman,570,98
+Understanding Pointers - First_Char,zimmerman,561,450
+Array-based Vector - Rule of Three,zimmerman,243,2068
+Understanding Pointers - First_Char,baseline,560,507
+Sorted List,baseline,751,2184
+Sorted List,baseline,82,2287
+Circular Linked List,baseline,738,1276
+Array-based Vector - Rule of Three,baseline,215,255
+Sorted List,baseline,738,845
+Circular Linked List,baseline,710,4821
+Array-based Vector - Rule of Three,zimmerman,348,1558
+Sorted List,baseline,382,340
+Circular Linked List,chi,60,2310
+Array-based Vector - Rule of Three,baseline,530,1019
+Understanding Pointers - First_Char,chi,393,223
+Binary Tree Depth,chi,268,729
+Sorted List,baseline,249,3599
+Sorted List,chi,60,1296
+Binary Tree Depth,chi,103,2398
+Sorted List,zimmerman,540,748
+Averager,zimmerman,195,890
+Array-based Vector - Rule of Three,baseline,305,296
+Understanding Pointers - First_Char,baseline,456,392
+Dynamic Queue,baseline,221,2217
+Sorted List,baseline,221,934
+Understanding Pointers - First_Char,chi,188,1022
+Sorted List,zimmerman,481,1828
+Sorted List,chi,16,180
+Circular Linked List,chi,310,5046
+Understanding Pointers - First_Char,zimmerman,442,420
+Array-based Vector - Rule of Three,chi,393,965
+Array-based Vector - Rule of Three,zimmerman,561,1393
+Sorted List,chi,118,2379
+Understanding Pointers - First_Char,zimmerman,86,611
+Circular Linked List,baseline,409,2106
+Array-based Vector - Rule of Three,baseline,611,426
+Circular Linked List,chi,103,82
+Array-based Vector - Rule of Three,chi,771,1403
+Circular Linked List,zimmerman,748,5220
+Circular Linked List,baseline,39,3293
+Circular Linked List,zimmerman,417,6935
+Sorted List,chi,310,2567
+Understanding Pointers - First_Char,zimmerman,243,529
+Array-based Vector - Rule of Three,baseline,755,1200
+Array-based Vector - Rule of Three,chi,539,1780
+Array-based Vector - Rule of Three,zimmerman,489,1177
+Understanding Pointers - First_Char,chi,63,1289
+Understanding Pointers - First_Char,chi,800,480
+Understanding Pointers - First_Char,baseline,270,436
+Understanding Pointers - First_Char,baseline,538,294
+Sorted List,baseline,167,150
+Understanding Pointers - First_Char,chi,777,350
+Understanding Pointers - First_Char,chi,696,1679
+Understanding Pointers - First_Char,baseline,364,257
+Array-based Vector - Rule of Three,chi,188,384
+Array-based Vector - Rule of Three,baseline,538,1815
+Sorted List,baseline,166,2318
+Array-based Vector - Rule of Three,chi,63,1948
+Array-based Vector - Rule of Three,zimmerman,187,1110
+Array-based Vector - Rule of Three,zimmerman,95,2371
+Binary Tree Depth,baseline,167,539
+Dynamic Queue,chi,510,212
+Array-based Vector - Rule of Three,baseline,681,1273
+Circular Linked List,zimmerman,369,1244
+Array-based Vector - Rule of Three,baseline,284,1583
+Understanding Pointers - First_Char,chi,467,748
+Array-based Vector - Rule of Three,baseline,368,479
+Understanding Pointers - First_Char,baseline,368,430
+Circular Linked List,baseline,167,1596
+Understanding Pointers - First_Char,zimmerman,580,310
+Understanding Pointers - First_Char,zimmerman,95,299
+Understanding Pointers - First_Char,chi,317,512
+Dynamic Queue,baseline,167,2385
+Array-based Vector - Rule of Three,chi,41,979
+Understanding Pointers - First_Char,zimmerman,187,737
+Understanding Pointers - First_Char,zimmerman,77,921
+Understanding Pointers - First_Char,zimmerman,396,682
+Array-based Vector - Rule of Three,chi,317,1478
+Understanding Pointers - First_Char,zimmerman,116,690
+Understanding Pointers - First_Char,chi,355,769
+Dynamic Queue,chi,780,3404
+Array-based Vector - Rule of Three,baseline,391,328
+Array-based Vector - Rule of Three,chi,696,2304
+Array-based Vector - Rule of Three,baseline,240,8560
+Array-based Vector - Rule of Three,chi,185,2989
+Array-based Vector - Rule of Three,zimmerman,396,2759
+Circular Linked List,chi,780,69
+Understanding Pointers - First_Char,baseline,391,476
+Sorted List,chi,450,2237
+Circular Linked List,baseline,354,4564
+Array-based Vector - Rule of Three,baseline,364,1406
+Sorted List,baseline,710,2937
+Array-based Vector - Rule of Three,baseline,66,3535
+Complex Numbers,baseline,597,122
+Array-based Vector - Rule of Three,zimmerman,77,2907
+Circular Linked List,chi,55,3254
+Understanding Pointers - First_Char,zimmerman,411,510
+Sorted List,baseline,531,2641
+Understanding Pointers - First_Char,baseline,24,230
+Array-based Vector - Rule of Three,zimmerman,422,1773
+Understanding Pointers - First_Char,zimmerman,422,794
+Circular Linked List,baseline,531,3556
+Circular Linked List,baseline,687,1553
+Array-based Vector - Rule of Three,chi,522,930
+Circular Linked List,chi,104,3263
+Array-based Vector - Rule of Three,zimmerman,769,1646
+Array-based Vector - Rule of Three,chi,777,1648
+Array-based Vector - Rule of Three,zimmerman,433,3513
+Array-based Vector - Rule of Three,zimmerman,411,1146
+Array-based Vector - Rule of Three,zimmerman,580,3616
+Array-based Vector - Rule of Three,baseline,630,1911
+Understanding Pointers - First_Char,baseline,379,435
+Array-based Vector - Rule of Three,baseline,500,771
+Sorted List,chi,222,2376
+Understanding Pointers - First_Char,zimmerman,402,79
+Sorted List,baseline,771,1806
+Sorted List,baseline,277,79
+Circular Linked List,chi,222,5004
+Circular Linked List,baseline,420,2332
+Array-based Vector - Rule of Three,baseline,379,959
+Understanding Pointers - First_Char,baseline,35,630
+Circular Linked List,baseline,378,3671
+Understanding Pointers - First_Char,chi,771,602
+Array-based Vector - Rule of Three,chi,652,70
+Sorted List,baseline,179,1587
+Array-based Vector - Rule of Three,zimmerman,613,1902
+Array-based Vector - Rule of Three,baseline,270,1099
+Circular Linked List,baseline,163,1602
+Understanding Pointers - First_Char,zimmerman,385,330
+Array-based Vector - Rule of Three,chi,276,2567
+Circular Linked List,chi,231,3727
+Sorted List,baseline,354,938
+Sorted List,baseline,687,2042
+Array-based Vector - Rule of Three,chi,547,951
+Circular Linked List,baseline,373,1892
+Array-based Vector - Rule of Three,baseline,24,1338
+Array-based Vector - Rule of Three,baseline,35,2359
+Sorted List,chi,462,956
+Sorted List,baseline,163,1078
+Circular Linked List,zimmerman,778,3502
+Sorted List,baseline,39,3227
+Circular Linked List,baseline,472,6525
+Circular Linked List,baseline,801,4095
+Sorted List,chi,79,1853
+Circular Linked List,zimmerman,403,1141
+Sorted List,chi,65,1012
+Array-based Vector - Rule of Three,chi,460,2214
+Array-based Vector - Rule of Three,baseline,94,3822
+Array-based Vector - Rule of Three,zimmerman,175,390
+Averager,zimmerman,675,1048
+Sorted List,chi,548,3203
+Understanding Pointers - First_Char,baseline,797,226
+Sorted List,baseline,373,1560
+Array-based Vector - Rule of Three,zimmerman,551,1233
+Binary Tree Depth,chi,510,83
+Sorted List,baseline,420,1476
+Circular Linked List,baseline,523,2385
+Sorted List,chi,101,2212
+Circular Linked List,baseline,283,6096
+Understanding Pointers - First_Char,baseline,94,1055
+Understanding Pointers - First_Char,baseline,267,60
+Complex Numbers,baseline,672,547
+Circular Linked List,chi,484,3302
+Understanding Pointers - First_Char,chi,276,927
+Set Product,zimmerman,200,3077
+Array-based Vector - Rule of Three,chi,690,1055
+Sorted List,chi,231,1766
+Sorted List,zimmerman,115,388
+Circular Linked List,zimmerman,368,2456
+Understanding Pointers - First_Char,zimmerman,551,598
+Array-based Vector - Rule of Three,baseline,137,2000
+Sorted List,baseline,801,2233
+Circular Linked List,chi,122,320
+Array-based Vector - Rule of Three,zimmerman,8,2016
+Complex Numbers,zimmerman,675,2800
+Array-based Vector - Rule of Three,baseline,797,864
+Binary Tree Depth,zimmerman,155,1702
+Understanding Pointers - First_Char,chi,690,626
+Array-based Vector - Rule of Three,chi,800,840
+Array-based Vector - Rule of Three,zimmerman,606,1097
+Circular Linked List,zimmerman,461,2841
+Circular Linked List,baseline,499,1313
+Circular Linked List,baseline,298,5610
+Circular Linked List,zimmerman,183,2670
+Sorted List,chi,518,587
+Circular Linked List,chi,109,3037
+Circular Linked List,chi,713,4901
+Circular Linked List,baseline,480,2007
+Sorted List,baseline,493,840
+Circular Linked List,chi,230,1843
+Sorted List,chi,713,2823
+Sorted List,baseline,480,636
+Sorted List,baseline,785,1322
+Sorted List,chi,109,2361
+Understanding Pointers - First_Char,zimmerman,335,456
+Polymorphic Functions,chi,729,866
+Array-based Vector - Rule of Three,chi,355,3099
+Array-based Vector - Rule of Three,chi,654,90
+Array-based Vector - Rule of Three,baseline,553,87
+Array-based Vector - Rule of Three,zimmerman,658,1869
+Sorted List,zimmerman,720,73
+Polymorphic Functions,zimmerman,591,639
+Polymorphic Functions,chi,806,1066
+Array-based Vector - Rule of Three,zimmerman,335,433
+House Painting,baseline,571,60
+Circular Linked List,baseline,78,3540
+Array-based Vector - Rule of Three,zimmerman,576,3096
+Polymorphic Functions,chi,162,450
+Understanding Pointers - First_Char,chi,654,253
+Sorted List,zimmerman,600,540
+House Painting,chi,806,124
+Sorted List,zimmerman,566,292
+Sorted List,zimmerman,417,2770
+Sorted List,chi,647,2047
+Array-based Vector - Rule of Three,chi,31,804
+Circular Linked List,chi,49,3942
+Circular Linked List,zimmerman,566,317
+Circular Linked List,chi,178,692
+Circular Linked List,baseline,657,388
+Circular Linked List,chi,251,291
+Sorted List,baseline,502,2828
+Sorted List,baseline,308,113
+Circular Linked List,chi,647,2782
+House Painting,chi,162,954
+Understanding Pointers - First_Char,chi,599,477
+Array-based Vector - Rule of Three,chi,739,174
+Understanding Pointers - First_Char,zimmerman,576,1884
+Array-based Vector - Rule of Three,zimmerman,682,265
+Circular Linked List,zimmerman,600,3631
+Sorted List,baseline,78,610
+Circular Linked List,zimmerman,413,1063
+Circular Linked List,baseline,320,1068
+Understanding Pointers - First_Char,chi,739,815
+Polymorphic Functions,zimmerman,398,2096
+House Painting,zimmerman,398,1966
+Understanding Pointers - First_Char,chi,262,492
+Sorted List,baseline,298,3324
+Circular Linked List,zimmerman,47,6176
+Array-based Vector - Rule of Three,baseline,370,86
+Array-based Vector - Rule of Three,baseline,592,2838
+Understanding Pointers - First_Char,zimmerman,340,899
+Array-based Vector - Rule of Three,chi,262,248
+Array-based Vector - Rule of Three,zimmerman,340,1230
+Understanding Pointers - First_Char,zimmerman,694,124
+Understanding Pointers - First_Char,chi,432,150
+Sorted List,chi,260,90
+Circular Linked List,baseline,282,157
+Sorted List,zimmerman,397,1202
+Understanding Pointers - First_Char,zimmerman,52,570
+Understanding Pointers - First_Char,chi,459,1498
+Sorted List,baseline,499,446
+All permutations,chi,520,2884
+Sorted List,chi,123,150
+Sorted List,zimmerman,728,569
+House Painting,zimmerman,430,2746
+House Painting,zimmerman,59,1276
+Array-based Vector - Rule of Three,chi,432,30
+Circular Linked List,chi,390,1082
+Understanding Pointers - First_Char,chi,578,506
+Sorted List,chi,672,629
+Polymorphic Functions,zimmerman,430,1368
+Understanding Pointers - First_Char,zimmerman,203,828
+Sorted List,chi,230,678
+Sorted List,chi,55,4310
+Sorted List,chi,390,268
+Circular Linked List,baseline,246,90
+Sorted List,zimmerman,778,875
+Understanding Pointers - First_Char,chi,418,1395
+Array-based Vector - Rule of Three,chi,599,1386
+Array-based Vector - Rule of Three,chi,578,1630
+Understanding Pointers - First_Char,chi,542,1109
+Understanding Pointers - First_Char,baseline,388,648
+Array-based Vector - Rule of Three,baseline,275,184
+Polymorphic Functions,zimmerman,64,283
+Array-based Vector - Rule of Three,chi,542,2377
+Sorted List,chi,659,2238
+House Painting,zimmerman,577,1558
+Sorted List,chi,795,564
+Sorted List,chi,309,218
+Sorted List,chi,131,1066
+Polymorphic Functions,zimmerman,17,87
+Array-based Vector - Rule of Three,chi,418,2143
+House Painting,baseline,755,957
+Set Product,chi,520,4632
+Array-based Vector - Rule of Three,zimmerman,52,1992
+Understanding Pointers - First_Char,zimmerman,707,1450
+Understanding Pointers - First_Char,zimmerman,649,240
+House Painting,baseline,292,1315
+Polymorphic Functions,baseline,755,915
+Array-based Vector - Rule of Three,zimmerman,7,1857
+Polymorphic Functions,baseline,292,737
+Array-based Vector - Rule of Three,chi,467,1439
+Averager,baseline,521,900
+House Painting,zimmerman,271,899
+Polymorphic Functions,chi,126,511
+House Painting,zimmerman,77,2020
+Polymorphic Functions,zimmerman,143,780
+Dynamic Queue,zimmerman,805,3806
+House Painting,chi,126,1207
+Polymorphic Functions,baseline,108,360
+Array-based Vector - Rule of Three,zimmerman,548,3023
+House Painting,baseline,24,90
+Understanding Pointers - First_Char,chi,82,899
+Polymorphic Functions,zimmerman,77,917
+Array-based Vector - Rule of Three,zimmerman,234,387
+Array-based Vector - Rule of Three,chi,82,3222
+Polymorphic Functions,chi,670,71
+Dynamic Queue,chi,521,7161
+Polymorphic Functions,baseline,629,64
+Binary Tree Depth,chi,400,870
+Polymorphic Functions,zimmerman,359,295
+House Painting,baseline,669,1195
+Polymorphic Functions,baseline,367,280
+Polymorphic Functions,zimmerman,271,744
+Sorted List,chi,400,1201
+Circular Linked List,chi,400,3081
+Understanding Pointers - First_Char,baseline,172,55
+Understanding Pointers - First_Char,zimmerman,234,177
+House Painting,baseline,108,690
+Polymorphic Functions,baseline,304,800
+House Painting,zimmerman,302,180
+Array-based Vector - Rule of Three,baseline,172,177
+Polymorphic Functions,zimmerman,561,420
+Array-based Vector - Rule of Three,zimmerman,400,68
+Understanding Pointers - First_Char,zimmerman,400,775
+Polymorphic Functions,zimmerman,618,1052
+Polymorphic Functions,chi,686,502
+Array-based Vector - Rule of Three,zimmerman,86,2334
+House Painting,baseline,644,1219
+Array-based Vector - Rule of Three,zimmerman,781,653
+House Painting,baseline,367,1179
+House Painting,zimmerman,143,1557
+House Painting,zimmerman,442,65
+Dynamic Queue,chi,400,2650
+Polymorphic Functions,zimmerman,667,360
+House Painting,zimmerman,667,30
+Polymorphic Functions,zimmerman,442,755
+Sorted List,zimmerman,389,2529
+Understanding Pointers - First_Char,chi,437,2760
+House Painting,baseline,753,1270
+Polymorphic Functions,baseline,24,1040
+House Painting,zimmerman,618,1306
+Understanding Pointers - First_Char,baseline,62,720
+Binary Tree Depth,chi,521,2848
+Array-based Vector - Rule of Three,baseline,62,2664
+All permutations,zimmerman,718,296
+Polymorphic Functions,baseline,62,150
+Complex Numbers,chi,520,3304
+Understanding Pointers - First_Char,zimmerman,310,1410
+Array-based Vector - Rule of Three,zimmerman,256,183
+Array-based Vector - Rule of Three,zimmerman,22,899
+Understanding Pointers - First_Char,zimmerman,256,143
+Array-based Vector - Rule of Three,zimmerman,475,1020
+House Painting,baseline,456,1410
+Understanding Pointers - First_Char,zimmerman,475,120
+Sorted List,zimmerman,471,2117
+Binary Tree Depth,zimmerman,520,2061
+All permutations,zimmerman,437,1390
+Averager,zimmerman,718,1021
+Array-based Vector - Rule of Three,baseline,471,2431
+Dynamic Queue,zimmerman,520,4680
+Averager,chi,520,787
+Polymorphic Functions,chi,355,360
+Array-based Vector - Rule of Three,zimmerman,310,2348
+Circular Linked List,chi,521,4230
+House Painting,chi,355,2244
+Binary Tree Depth,baseline,25,217
+Array-based Vector - Rule of Three,baseline,255,1020
+Array-based Vector - Rule of Three,baseline,754,313
+Sorted List,baseline,615,417
+Dynamic Queue,baseline,767,13030
+House Painting,zimmerman,383,720
+Understanding Pointers - First_Char,baseline,255,60
+House Painting,baseline,233,30
+Circular Linked List,zimmerman,471,1707
+Polymorphic Functions,baseline,456,667
+Sorted List,zimmerman,520,4388
+Circular Linked List,chi,142,711
+Understanding Pointers - First_Char,chi,373,277
+Understanding Pointers - First_Char,baseline,734,455
+Circular Linked List,chi,735,6407
+Understanding Pointers - First_Char,chi,23,640
+Understanding Pointers - First_Char,chi,480,482
+Array-based Vector - Rule of Three,zimmerman,402,117
+Polymorphic Functions,baseline,681,501
+Array-based Vector - Rule of Three,baseline,389,414
+Understanding Pointers - First_Char,baseline,389,352
+Understanding Pointers - First_Char,baseline,471,180
+Complex Numbers,baseline,102,145
+All permutations,zimmerman,200,1894
+Understanding Pointers - First_Char,zimmerman,450,658
+House Painting,baseline,201,490
+Understanding Pointers - First_Char,zimmerman,688,699
+Binary Tree Depth,baseline,718,615
+Dynamic Queue,baseline,718,1271
+Circular Linked List,zimmerman,155,3171
+Array-based Vector - Rule of Three,baseline,734,908
+Sorted List,chi,54,3427
+Array-based Vector - Rule of Three,baseline,656,2111
+Array-based Vector - Rule of Three,zimmerman,450,1692
+House Painting,baseline,681,542
+Polymorphic Functions,baseline,669,29
+Array-based Vector - Rule of Three,zimmerman,363,942
+Understanding Pointers - First_Char,zimmerman,54,990
+Array-based Vector - Rule of Three,chi,710,2960
+Understanding Pointers - First_Char,chi,710,958
+Array-based Vector - Rule of Three,zimmerman,659,2507
+Understanding Pointers - First_Char,baseline,56,1162
+Array-based Vector - Rule of Three,zimmerman,54,2179
+Understanding Pointers - First_Char,zimmerman,390,120
+Array-based Vector - Rule of Three,baseline,11,145
+Understanding Pointers - First_Char,chi,531,536
+Circular Linked List,baseline,446,29
+Understanding Pointers - First_Char,baseline,417,1051
+House Painting,zimmerman,680,107
+Understanding Pointers - First_Char,zimmerman,309,967
+Sorted List,chi,735,3282
+Understanding Pointers - First_Char,zimmerman,680,577
+Array-based Vector - Rule of Three,chi,531,2335
+Array-based Vector - Rule of Three,zimmerman,518,3439
+Binary Tree Depth,chi,102,480
+House Painting,zimmerman,659,1761
+Polymorphic Functions,baseline,284,540
+Polymorphic Functions,zimmerman,22,1021
+Circular Linked List,baseline,718,1447
+Array-based Vector - Rule of Three,zimmerman,688,244
+Array-based Vector - Rule of Three,zimmerman,390,180
+Understanding Pointers - First_Char,zimmerman,659,148
+Polymorphic Functions,zimmerman,659,495
+Understanding Pointers - First_Char,chi,249,979
+Array-based Vector - Rule of Three,zimmerman,309,697
+Circular Linked List,chi,102,360
+Averager,zimmerman,767,2507
+Circular Linked List,zimmerman,724,201
+Sorted List,baseline,718,461
+Understanding Pointers - First_Char,chi,601,949
+Array-based Vector - Rule of Three,zimmerman,735,3330
+Understanding Pointers - First_Char,zimmerman,123,60
+Array-based Vector - Rule of Three,baseline,401,59
+Understanding Pointers - First_Char,zimmerman,518,570
+Polymorphic Functions,zimmerman,680,602
+Array-based Vector - Rule of Three,zimmerman,680,1476
+Binary Tree Depth,baseline,437,457
+Array-based Vector - Rule of Three,baseline,56,714
+Array-based Vector - Rule of Three,zimmerman,123,150
+Polymorphic Functions,zimmerman,123,30
+House Painting,zimmerman,123,143
+Understanding Pointers - First_Char,chi,420,261
+Understanding Pointers - First_Char,chi,586,1181
+Array-based Vector - Rule of Three,chi,249,2412
+Understanding Pointers - First_Char,baseline,397,180
+Array-based Vector - Rule of Three,baseline,397,49
+Polymorphic Functions,chi,798,473
+Circular Linked List,chi,608,3908
+Array-based Vector - Rule of Three,chi,39,4506
+House Painting,baseline,566,88
+House Painting,baseline,445,1333
+Array-based Vector - Rule of Three,baseline,600,855
+Polymorphic Functions,zimmerman,54,769
+Understanding Pointers - First_Char,zimmerman,795,1175
+Understanding Pointers - First_Char,chi,472,2005
+House Painting,chi,798,311
+Array-based Vector - Rule of Three,zimmerman,795,1323
+House Painting,baseline,284,1148
+Set Product,zimmerman,767,15941
+Polymorphic Functions,chi,472,712
+Polymorphic Functions,zimmerman,328,843
+Sorted List,baseline,315,4889
+Sorted List,zimmerman,90,1088
+Polymorphic Functions,chi,352,711
+Polymorphic Functions,baseline,520,1271
+House Painting,chi,221,1698
+Array-based Vector - Rule of Three,baseline,520,3399
+Circular Linked List,zimmerman,90,2588
+Array-based Vector - Rule of Three,chi,420,1162
+Understanding Pointers - First_Char,baseline,520,548
+Polymorphic Functions,baseline,445,209
+Averager,baseline,482,81
+Array-based Vector - Rule of Three,baseline,183,74
+Polymorphic Functions,chi,221,903
+Array-based Vector - Rule of Three,chi,221,296
+Array-based Vector - Rule of Three,chi,472,6382
+House Painting,baseline,520,1889
+All permutations,zimmerman,767,8060
+Sorted List,zimmerman,183,180
+Understanding Pointers - First_Char,chi,221,212
+Sorted List,zimmerman,155,4208
+Binary Tree Depth,zimmerman,183,210
+Sorted List,baseline,767,5363
+Understanding Pointers - First_Char,baseline,90,1091
+Understanding Pointers - First_Char,zimmerman,101,254
+Array-based Vector - Rule of Three,zimmerman,730,646
+Understanding Pointers - First_Char,chi,39,3986
+Set Product,zimmerman,3,203
+Array-based Vector - Rule of Three,baseline,90,2250
+House Painting,zimmerman,450,1207
+Understanding Pointers - First_Char,chi,315,780
+Polymorphic Functions,zimmerman,450,870
+Set Product,baseline,715,5672
+Complex Numbers,baseline,487,825
+Array-based Vector - Rule of Three,chi,315,2572
+Sorted List,chi,608,387
+Understanding Pointers - First_Char,zimmerman,691,220
+Polymorphic Functions,zimmerman,290,520
+Array-based Vector - Rule of Three,baseline,388,1769
+House Painting,zimmerman,290,29
+Polymorphic Functions,chi,258,534
+House Painting,baseline,90,1607
+Circular Linked List,baseline,225,2236
+Array-based Vector - Rule of Three,chi,12,2201
+Dynamic Queue,baseline,352,3585
+Averager,baseline,231,946
+Polymorphic Functions,chi,176,447
+Sorted List,zimmerman,47,295
+Polymorphic Functions,baseline,397,630
+House Painting,chi,176,1624
+House Painting,baseline,81,2128
+Understanding Pointers - First_Char,chi,12,676
+House Painting,baseline,481,1751
+House Painting,baseline,304,1215
+Polymorphic Functions,baseline,566,29
+Array-based Vector - Rule of Three,baseline,190,1806
+Array-based Vector - Rule of Three,baseline,481,2421
+Array-based Vector - Rule of Three,chi,258,1325
+Polymorphic Functions,baseline,388,179
+Understanding Pointers - First_Char,baseline,481,818
+Understanding Pointers - First_Char,chi,258,534
+House Painting,chi,258,1038
+Understanding Pointers - First_Char,baseline,190,600
+Polymorphic Functions,zimmerman,691,1012
+Set Product,baseline,594,2026
+Polymorphic Functions,chi,218,29
+Array-based Vector - Rule of Three,zimmerman,691,1336
+Understanding Pointers - First_Char,zimmerman,510,218
+All permutations,chi,560,3134
+House Painting,zimmerman,691,1001
+Dynamic Queue,chi,487,824
+Binary Tree Depth,baseline,352,421
+House Painting,baseline,397,1669
+Understanding Pointers - First_Char,chi,352,53
+Polymorphic Functions,baseline,90,1536
+Binary Tree Depth,zimmerman,254,2511
+Array-based Vector - Rule of Three,chi,352,705
+Set Product,zimmerman,12,477
+Polymorphic Functions,baseline,481,1505
+Polymorphic Functions,chi,420,251
+Complex Numbers,zimmerman,640,5067
+Complex Numbers,zimmerman,293,3060
+Set Product,chi,560,4114
+Circular Linked List,chi,510,1242
+Averager,zimmerman,293,671
+Averager,baseline,597,106
+Sorted List,chi,510,230
+Set Product,chi,644,9360
+Dynamic Queue,chi,597,5471
+Array-based Vector - Rule of Three,zimmerman,510,418
+Sorted List,zimmerman,748,2582
+Circular Linked List,zimmerman,631,203
+Understanding Pointers - First_Char,zimmerman,109,300
+House Painting,baseline,388,30
+Dynamic Queue,baseline,184,106
+Array-based Vector - Rule of Three,baseline,159,933
+Array-based Vector - Rule of Three,baseline,47,3037
+House Painting,zimmerman,109,774
+House Painting,baseline,565,1166
+Averager,zimmerman,200,800
+Array-based Vector - Rule of Three,chi,225,4131
+Sorted List,baseline,225,2436
+Polymorphic Functions,baseline,565,389
+Binary Tree Depth,zimmerman,775,2652
+Sorted List,zimmerman,254,2258
+Array-based Vector - Rule of Three,zimmerman,109,1299
+Set Product,zimmerman,296,3987
+Array-based Vector - Rule of Three,baseline,748,362
+Dynamic Queue,baseline,39,6249
+Averager,chi,775,138
+Polymorphic Functions,baseline,199,473
+Understanding Pointers - First_Char,baseline,748,780
+Understanding Pointers - First_Char,chi,225,344
+Complex Numbers,zimmerman,200,2753
+Polymorphic Functions,baseline,47,238
+Understanding Pointers - First_Char,baseline,254,710
+Complex Numbers,chi,494,4906
+Understanding Pointers - First_Char,zimmerman,231,599
+All permutations,zimmerman,495,90
+House Painting,chi,420,1472
+Complex Numbers,baseline,543,5003
+Array-based Vector - Rule of Three,baseline,254,2072
+Binary Tree Depth,zimmerman,47,1117
+Polymorphic Functions,baseline,417,617
+Array-based Vector - Rule of Three,zimmerman,231,2770
+Set Product,zimmerman,657,524
+Array-based Vector - Rule of Three,zimmerman,597,2645
+Set Product,baseline,84,2864
+Sorted List,baseline,726,1295
+Binary Tree Depth,baseline,640,1753
+Set Product,chi,299,3766
+Complex Numbers,chi,419,4383
+All permutations,baseline,125,2691
+Set Product,chi,419,2084
+Polymorphic Functions,zimmerman,109,343
+Polymorphic Functions,baseline,560,527
+Sorted List,baseline,640,558
+Averager,zimmerman,296,417
+Array-based Vector - Rule of Three,baseline,805,442
+Dynamic Queue,baseline,640,56
+Set Product,chi,135,833
+All permutations,zimmerman,296,691
+All permutations,chi,419,2861
+Polymorphic Functions,baseline,734,63
+Understanding Pointers - First_Char,zimmerman,55,1056
+Binary Tree Depth,baseline,372,1849
+Complex Numbers,zimmerman,296,2749
+House Painting,baseline,560,1154
+Array-based Vector - Rule of Three,zimmerman,55,758
+Averager,zimmerman,434,786
+Complex Numbers,chi,94,5655
